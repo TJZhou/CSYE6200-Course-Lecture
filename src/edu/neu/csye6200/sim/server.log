@@ -1,0 +1,2787 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563589</millis>
+  <sequence>10</sequence>
+  <logger>edu.neu.csye6200.sim.RegistryIO</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.RegistryIO</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a RegistryIO instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563590</millis>
+  <sequence>11</sequence>
+  <logger>edu.neu.csye6200.inheritTest.MeterManager</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Roster</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a MeterManager instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563596</millis>
+  <sequence>12</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563597</millis>
+  <sequence>13</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563598</millis>
+  <sequence>14</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563598</millis>
+  <sequence>15</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563599</millis>
+  <sequence>16</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563600</millis>
+  <sequence>17</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563601</millis>
+  <sequence>18</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563601</millis>
+  <sequence>19</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563602</millis>
+  <sequence>20</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563603</millis>
+  <sequence>21</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563603</millis>
+  <sequence>22</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563604</millis>
+  <sequence>23</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563605</millis>
+  <sequence>24</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563605</millis>
+  <sequence>25</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563605</millis>
+  <sequence>26</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563606</millis>
+  <sequence>27</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563606</millis>
+  <sequence>28</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563607</millis>
+  <sequence>29</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563607</millis>
+  <sequence>30</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563608</millis>
+  <sequence>31</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563608</millis>
+  <sequence>32</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563608</millis>
+  <sequence>33</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563609</millis>
+  <sequence>34</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563609</millis>
+  <sequence>35</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563609</millis>
+  <sequence>36</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563610</millis>
+  <sequence>37</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563610</millis>
+  <sequence>38</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563611</millis>
+  <sequence>39</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563611</millis>
+  <sequence>40</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563613</millis>
+  <sequence>41</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563614</millis>
+  <sequence>42</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563614</millis>
+  <sequence>43</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563615</millis>
+  <sequence>44</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563616</millis>
+  <sequence>45</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563617</millis>
+  <sequence>46</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563617</millis>
+  <sequence>47</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563618</millis>
+  <sequence>48</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563618</millis>
+  <sequence>49</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563619</millis>
+  <sequence>50</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563620</millis>
+  <sequence>51</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563620</millis>
+  <sequence>52</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563621</millis>
+  <sequence>53</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563621</millis>
+  <sequence>54</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563621</millis>
+  <sequence>55</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563622</millis>
+  <sequence>56</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563623</millis>
+  <sequence>57</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563624</millis>
+  <sequence>58</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563624</millis>
+  <sequence>59</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563625</millis>
+  <sequence>60</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563626</millis>
+  <sequence>61</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563626</millis>
+  <sequence>62</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563626</millis>
+  <sequence>63</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563627</millis>
+  <sequence>64</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563628</millis>
+  <sequence>65</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563628</millis>
+  <sequence>66</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563628</millis>
+  <sequence>67</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563630</millis>
+  <sequence>68</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563631</millis>
+  <sequence>69</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563631</millis>
+  <sequence>70</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563632</millis>
+  <sequence>71</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563632</millis>
+  <sequence>72</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563633</millis>
+  <sequence>73</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563636</millis>
+  <sequence>74</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563637</millis>
+  <sequence>75</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563637</millis>
+  <sequence>76</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563637</millis>
+  <sequence>77</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563638</millis>
+  <sequence>78</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563640</millis>
+  <sequence>79</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563640</millis>
+  <sequence>80</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563641</millis>
+  <sequence>81</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563641</millis>
+  <sequence>82</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563642</millis>
+  <sequence>83</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563642</millis>
+  <sequence>84</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563642</millis>
+  <sequence>85</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563643</millis>
+  <sequence>86</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563643</millis>
+  <sequence>87</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563644</millis>
+  <sequence>88</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563645</millis>
+  <sequence>89</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563645</millis>
+  <sequence>90</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563645</millis>
+  <sequence>91</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563646</millis>
+  <sequence>92</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563646</millis>
+  <sequence>93</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563647</millis>
+  <sequence>94</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563647</millis>
+  <sequence>95</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563647</millis>
+  <sequence>96</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563648</millis>
+  <sequence>97</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563648</millis>
+  <sequence>98</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563648</millis>
+  <sequence>99</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563649</millis>
+  <sequence>100</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563649</millis>
+  <sequence>101</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563649</millis>
+  <sequence>102</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563650</millis>
+  <sequence>103</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563650</millis>
+  <sequence>104</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563650</millis>
+  <sequence>105</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563650</millis>
+  <sequence>106</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563651</millis>
+  <sequence>107</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563651</millis>
+  <sequence>108</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563651</millis>
+  <sequence>109</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563651</millis>
+  <sequence>110</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563652</millis>
+  <sequence>111</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563652</millis>
+  <sequence>112</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563652</millis>
+  <sequence>113</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563652</millis>
+  <sequence>114</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563652</millis>
+  <sequence>115</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563653</millis>
+  <sequence>116</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563653</millis>
+  <sequence>117</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563653</millis>
+  <sequence>118</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563653</millis>
+  <sequence>119</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563653</millis>
+  <sequence>120</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563654</millis>
+  <sequence>121</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563654</millis>
+  <sequence>122</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563654</millis>
+  <sequence>123</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563655</millis>
+  <sequence>124</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563655</millis>
+  <sequence>125</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563655</millis>
+  <sequence>126</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563656</millis>
+  <sequence>127</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563656</millis>
+  <sequence>128</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563656</millis>
+  <sequence>129</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563656</millis>
+  <sequence>130</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563657</millis>
+  <sequence>131</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563657</millis>
+  <sequence>132</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563657</millis>
+  <sequence>133</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563657</millis>
+  <sequence>134</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563657</millis>
+  <sequence>135</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563658</millis>
+  <sequence>136</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563658</millis>
+  <sequence>137</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563659</millis>
+  <sequence>138</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563659</millis>
+  <sequence>139</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563660</millis>
+  <sequence>140</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563661</millis>
+  <sequence>141</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563661</millis>
+  <sequence>142</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563661</millis>
+  <sequence>143</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563661</millis>
+  <sequence>144</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563662</millis>
+  <sequence>145</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563662</millis>
+  <sequence>146</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563662</millis>
+  <sequence>147</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563662</millis>
+  <sequence>148</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563663</millis>
+  <sequence>149</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563663</millis>
+  <sequence>150</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563663</millis>
+  <sequence>151</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563663</millis>
+  <sequence>152</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563664</millis>
+  <sequence>153</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563664</millis>
+  <sequence>154</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563665</millis>
+  <sequence>155</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563665</millis>
+  <sequence>156</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563665</millis>
+  <sequence>157</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563666</millis>
+  <sequence>158</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563666</millis>
+  <sequence>159</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563666</millis>
+  <sequence>160</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563666</millis>
+  <sequence>161</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563667</millis>
+  <sequence>162</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563667</millis>
+  <sequence>163</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563667</millis>
+  <sequence>164</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563667</millis>
+  <sequence>165</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563668</millis>
+  <sequence>166</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563668</millis>
+  <sequence>167</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563668</millis>
+  <sequence>168</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563669</millis>
+  <sequence>169</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563669</millis>
+  <sequence>170</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563669</millis>
+  <sequence>171</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563669</millis>
+  <sequence>172</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563670</millis>
+  <sequence>173</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563670</millis>
+  <sequence>174</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563670</millis>
+  <sequence>175</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563670</millis>
+  <sequence>176</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563671</millis>
+  <sequence>177</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563671</millis>
+  <sequence>178</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563671</millis>
+  <sequence>179</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563672</millis>
+  <sequence>180</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563672</millis>
+  <sequence>181</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563672</millis>
+  <sequence>182</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563672</millis>
+  <sequence>183</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563672</millis>
+  <sequence>184</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563673</millis>
+  <sequence>185</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563673</millis>
+  <sequence>186</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563673</millis>
+  <sequence>187</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563673</millis>
+  <sequence>188</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563674</millis>
+  <sequence>189</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563674</millis>
+  <sequence>190</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563674</millis>
+  <sequence>191</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563675</millis>
+  <sequence>192</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563676</millis>
+  <sequence>193</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563676</millis>
+  <sequence>194</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563677</millis>
+  <sequence>195</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563677</millis>
+  <sequence>196</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563677</millis>
+  <sequence>197</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563678</millis>
+  <sequence>198</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563678</millis>
+  <sequence>199</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563678</millis>
+  <sequence>200</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563679</millis>
+  <sequence>201</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563679</millis>
+  <sequence>202</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563679</millis>
+  <sequence>203</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563680</millis>
+  <sequence>204</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563680</millis>
+  <sequence>205</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563680</millis>
+  <sequence>206</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563684</millis>
+  <sequence>207</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563687</millis>
+  <sequence>208</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563692</millis>
+  <sequence>209</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563703</millis>
+  <sequence>210</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563704</millis>
+  <sequence>211</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563705</millis>
+  <sequence>212</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563705</millis>
+  <sequence>213</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563705</millis>
+  <sequence>214</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563706</millis>
+  <sequence>215</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563706</millis>
+  <sequence>216</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563706</millis>
+  <sequence>217</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563706</millis>
+  <sequence>218</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563707</millis>
+  <sequence>219</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563707</millis>
+  <sequence>220</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563707</millis>
+  <sequence>221</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563707</millis>
+  <sequence>222</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563708</millis>
+  <sequence>223</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563708</millis>
+  <sequence>224</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563708</millis>
+  <sequence>225</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563708</millis>
+  <sequence>226</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563709</millis>
+  <sequence>227</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563709</millis>
+  <sequence>228</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563709</millis>
+  <sequence>229</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563709</millis>
+  <sequence>230</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563709</millis>
+  <sequence>231</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563710</millis>
+  <sequence>232</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563710</millis>
+  <sequence>233</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563710</millis>
+  <sequence>234</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563710</millis>
+  <sequence>235</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Stem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563710</millis>
+  <sequence>236</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563711</millis>
+  <sequence>237</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563711</millis>
+  <sequence>238</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563711</millis>
+  <sequence>239</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563711</millis>
+  <sequence>240</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563711</millis>
+  <sequence>241</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563712</millis>
+  <sequence>242</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563712</millis>
+  <sequence>243</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563712</millis>
+  <sequence>244</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563712</millis>
+  <sequence>245</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563712</millis>
+  <sequence>246</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563712</millis>
+  <sequence>247</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563713</millis>
+  <sequence>248</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563713</millis>
+  <sequence>249</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563713</millis>
+  <sequence>250</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563713</millis>
+  <sequence>251</sequence>
+  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563756</millis>
+  <sequence>252</sequence>
+  <logger>edu.neu.csye6200.sim.RegistryIO</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.RegistryIO</class>
+  <method>saveAll</method>
+  <thread>1</thread>
+  <message>Save method is called</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563777</millis>
+  <sequence>253</sequence>
+  <logger>edu.neu.csye6200.sim.RegistryIO</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.RegistryIO</class>
+  <method>load</method>
+  <thread>1</thread>
+  <message>Load method is called</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563793</millis>
+  <sequence>254</sequence>
+  <logger>edu.neu.csye6200.sim.Plant</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Plant</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Plant instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563793</millis>
+  <sequence>255</sequence>
+  <logger>edu.neu.csye6200.sim.Plant</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Plant</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Plant instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563794</millis>
+  <sequence>256</sequence>
+  <logger>edu.neu.csye6200.sim.Plant</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Plant</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Plant instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563794</millis>
+  <sequence>257</sequence>
+  <logger>edu.neu.csye6200.sim.Plant</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Plant</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Plant instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563794</millis>
+  <sequence>258</sequence>
+  <logger>edu.neu.csye6200.sim.FlowerPlant</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.FlowerPlant</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a FlowerPlant instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563795</millis>
+  <sequence>259</sequence>
+  <logger>edu.neu.csye6200.sim.Plant</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Plant</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Plant instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563795</millis>
+  <sequence>260</sequence>
+  <logger>edu.neu.csye6200.sim.FlowerPlant</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.FlowerPlant</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a FlowerPlant instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563795</millis>
+  <sequence>261</sequence>
+  <logger>edu.neu.csye6200.sim.Plant</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Plant</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Plant instance</message>
+</record>
+<record>
+  <date>2018-10-27T12:09:23</date>
+  <millis>1540656563795</millis>
+  <sequence>262</sequence>
+  <logger>edu.neu.csye6200.sim.FlowerPlant</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.FlowerPlant</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a FlowerPlant instance</message>
+</record>
+</log>
