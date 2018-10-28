@@ -129,7 +129,7 @@ public class RegistryIO {
 		}
 	}
 
-	//load plant info from disk, and create new plant instance
+	//load plant info from disk and create new plant instance
 	private void createNewPlant(HashMap<Integer,Plant> plantMap, String[] plantStr) {
 		
 		for(String str2 : plantStr){
