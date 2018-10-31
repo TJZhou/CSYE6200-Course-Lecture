@@ -85,10 +85,10 @@ public class PlantRoster {
 
 	//use quickSort to sort plant by ID
 	public void quickSort(){
-
+		int i = 0;
+		
 		//initialize the plantArray, the length of plantArray equals the size of plantMap
 		plantArray = new Plant[plantMap.size()];		
-		int i = 0;
 		for (Plant pt : plantMap.values()) {		
 			plantArray[i++] = pt;
 		}

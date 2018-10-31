@@ -1,11 +1,10 @@
 package edu.neu.csye6200.sim;
 
 import java.io.BufferedReader;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.logging.Logger;
 
@@ -99,19 +98,14 @@ public class RegistryIO {
 	 * to read from readBase
 	 */
 	public void load(HashMap<Integer,Plant> plantMap, String readBase) {
-		FileInputStream fis = null;
-		InputStreamReader isr = null;
-		BufferedReader br = null;
-		String[] plantStr;	//to save string after split by space and enter
+
+		String[] plantStr;	//to save string after split by space and enter		
+		log.info("Load method is called");		
 		
-		log.info("Load method is called");
-		
-		try {
+		//try-with-resources
+		try(BufferedReader br = new BufferedReader(new FileReader(readBase))) {
 			String str = "";	//to read each line
 			String str1 = "";	//save each line (str) in this string
-			fis = new FileInputStream(readBase);	// FileInputStream
-			isr = new InputStreamReader(fis);	// InputStreamReader 
-			br = new BufferedReader(isr);
 			while ((str = br.readLine()) != null) {
 				str1 += str + "\n";
 			}
@@ -153,7 +147,7 @@ public class RegistryIO {
 				plantMap.put(flowerPlant.getSpecimenID(), flowerPlant);
 				break;
 			case "Tulip":
-				flowerPlant = new FlowerPlant("Tulip", "yellor", 40, 4);
+				flowerPlant = new FlowerPlant("Tulip", "yellow", 40, 4);
 				plantMap.put(flowerPlant.getSpecimenID(), flowerPlant);
 				break;
 			case "Lily":
