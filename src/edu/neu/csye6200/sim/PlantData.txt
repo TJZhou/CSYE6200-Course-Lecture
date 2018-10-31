@@ -170,7 +170,7 @@ flowerID         locationX        locationY        color            petalNumbers
 
 ---------------------------------------------------------------------------------------------------------
 specimenID       plantName        totalHeight (cm) totalWidth (cm)  stemNumbers      flowerColoer     petalNumbers    
-1005             Tulip            6                101.66           139.66           yellor           4               
+1005             Tulip            6                101.66           139.66           yellow           4               
 
 stemID           locationX        locationY        stemLength       radians         
 128              0.00             0.00             40.00            90.00           
@@ -208,22 +208,22 @@ stemID           locationX        locationY        stemLength       radians
 
 The total number of stems is:16
 flowerID         locationX        locationY        color            petalNumbers    
-16               34.51            18.85            yellor           4               
-17               69.83            53.39            yellor           4               
-18               69.83            53.39            yellor           4               
-19               35.41            101.66           yellor           4               
-20               35.41            101.66           yellor           4               
-21               -8.76            79.52            yellor           4               
-22               -8.76            79.52            yellor           4               
-23               -26.42           70.67            yellor           4               
-24               -26.42           70.67            yellor           4               
-25               -70.59           48.53            yellor           4               
-26               -70.59           48.53            yellor           4               
-27               -52.52           0.00             yellor           4               
-28               -52.52           0.00             yellor           4               
-29               -3.71            0.00             yellor           4               
-30               -3.71            0.00             yellor           4               
-31               16.83            28.20            yellor           4               
+16               34.51            18.85            yellow           4               
+17               69.83            53.39            yellow           4               
+18               69.83            53.39            yellow           4               
+19               35.41            101.66           yellow           4               
+20               35.41            101.66           yellow           4               
+21               -8.76            79.52            yellow           4               
+22               -8.76            79.52            yellow           4               
+23               -26.42           70.67            yellow           4               
+24               -26.42           70.67            yellow           4               
+25               -70.59           48.53            yellow           4               
+26               -70.59           48.53            yellow           4               
+27               -52.52           0.00             yellow           4               
+28               -52.52           0.00             yellow           4               
+29               -3.71            0.00             yellow           4               
+30               -3.71            0.00             yellow           4               
+31               16.83            28.20            yellow           4               
 
 ---------------------------------------------------------------------------------------------------------
 specimenID       plantName        totalHeight (cm) totalWidth (cm)  stemNumbers      flowerColoer     petalNumbers    

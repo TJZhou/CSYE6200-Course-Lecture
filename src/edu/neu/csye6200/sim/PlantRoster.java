@@ -9,24 +9,24 @@ import edu.neu.csye6200.inheritTest.MeterManager;
  * @author Tianju Zhou NUID 001420546
  *
  */
-public class Roster {
+public class PlantRoster {
 	private static Logger log = Logger.getLogger(MeterManager.class.getName());
 	
-	private static Roster instance = null; // the single copy
+	private static PlantRoster instance = null; // the single copy
 	
-	private HashMap<Integer, Plant> plantMap = new HashMap<Integer, Plant>();
+	private HashMap<Integer, Plant> plantMap = new HashMap<Integer, Plant>();	//plant list
 	
-	private Plant[] plantArray;
+	private Plant[] plantArray;	//in order to sort all plants
 	
-	private RegistryIO IO = new RegistryIO();
+	private RegistryIO IO = new RegistryIO();	//an instance of RegistryIO to do file operation
 	
-	private Roster(){	// can't be built externally to class
+	private PlantRoster(){	// can't be built externally to class
 		log.info("Constructing a MeterManager instance");
 	}
 	
-	public static Roster instance(){
+	public static PlantRoster instance(){
 		if(instance == null)
-			instance = new Roster(); //build if needed
+			instance = new PlantRoster(); //build if needed
 		return (instance);	//return the single copy
 	}
 	
@@ -98,8 +98,8 @@ public class Roster {
 	}
 
 	/**
-	 * A recursive version of Quicksort for characters.
-	 * 
+	 * A recursive version of Quicksort.
+	 * To sort plants by their specimen ID 
 	 * @param plantArray
 	 * @param left
 	 * @param right

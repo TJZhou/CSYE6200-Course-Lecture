@@ -41,12 +41,12 @@ public class PlantTest {
 
 	//create 3 different flower plant
 	private Plant plant4 = new FlowerPlant("Rose", "red", 40, 5);
-	private Plant plant5 = new FlowerPlant("Tulip", "yellor", 40, 4);
+	private Plant plant5 = new FlowerPlant("Tulip", "yellow", 40, 4);
 	private Plant plant6 = new FlowerPlant("Lily", "white", 40, 6);
 		
 	private void run() {
 		
-		Roster roster = Roster.instance();
+		PlantRoster roster = PlantRoster.instance();
 		
 		//add plant to the singleton instance roster
 		roster.addPlant(plant1.getSpecimenID(), plant1);
