@@ -2,8 +2,8 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174836</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616620</millis>
   <sequence>10</sequence>
   <logger>edu.neu.csye6200.sim.RegistryIO</logger>
   <level>INFO</level>
@@ -13,8 +13,8 @@
   <message>Constructing a RegistryIO instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174837</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616621</millis>
   <sequence>11</sequence>
   <logger>edu.neu.csye6200.inheritTest.MeterManager</logger>
   <level>INFO</level>
@@ -24,8 +24,8 @@
   <message>Constructing a MeterManager instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174841</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616626</millis>
   <sequence>12</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -35,8 +35,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174841</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616626</millis>
   <sequence>13</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -46,8 +46,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174842</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616627</millis>
   <sequence>14</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -57,8 +57,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174842</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616627</millis>
   <sequence>15</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -68,8 +68,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174843</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616628</millis>
   <sequence>16</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -79,8 +79,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174843</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616628</millis>
   <sequence>17</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -90,8 +90,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174844</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616628</millis>
   <sequence>18</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -101,8 +101,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174844</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616629</millis>
   <sequence>19</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -112,8 +112,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174844</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616629</millis>
   <sequence>20</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -123,8 +123,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174845</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616630</millis>
   <sequence>21</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -134,8 +134,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174845</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616630</millis>
   <sequence>22</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -145,8 +145,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174846</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616630</millis>
   <sequence>23</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -156,8 +156,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174846</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616631</millis>
   <sequence>24</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -167,8 +167,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174846</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616631</millis>
   <sequence>25</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -178,8 +178,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174847</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616632</millis>
   <sequence>26</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -189,8 +189,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174847</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616632</millis>
   <sequence>27</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -200,8 +200,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174848</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616632</millis>
   <sequence>28</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -211,8 +211,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174848</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616633</millis>
   <sequence>29</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -222,8 +222,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174848</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616633</millis>
   <sequence>30</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -233,8 +233,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174849</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616634</millis>
   <sequence>31</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -244,8 +244,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174849</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616634</millis>
   <sequence>32</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -255,8 +255,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174849</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616634</millis>
   <sequence>33</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -266,8 +266,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174850</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616635</millis>
   <sequence>34</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -277,8 +277,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174850</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616635</millis>
   <sequence>35</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -288,8 +288,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174850</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616635</millis>
   <sequence>36</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -299,8 +299,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174851</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616636</millis>
   <sequence>37</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -310,8 +310,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174851</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616636</millis>
   <sequence>38</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -321,8 +321,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174852</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616636</millis>
   <sequence>39</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -332,8 +332,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174852</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616637</millis>
   <sequence>40</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -343,8 +343,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174852</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616637</millis>
   <sequence>41</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -354,8 +354,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174853</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616638</millis>
   <sequence>42</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -365,8 +365,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174853</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616638</millis>
   <sequence>43</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -376,8 +376,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174854</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616638</millis>
   <sequence>44</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -387,8 +387,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174854</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616639</millis>
   <sequence>45</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -398,8 +398,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174855</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616639</millis>
   <sequence>46</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -409,8 +409,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174855</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616639</millis>
   <sequence>47</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -420,8 +420,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174856</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616640</millis>
   <sequence>48</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -431,8 +431,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174856</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616640</millis>
   <sequence>49</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -442,8 +442,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174857</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616641</millis>
   <sequence>50</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -453,8 +453,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174858</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616641</millis>
   <sequence>51</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -464,8 +464,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174858</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616641</millis>
   <sequence>52</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -475,8 +475,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174859</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616642</millis>
   <sequence>53</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -486,8 +486,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174860</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616642</millis>
   <sequence>54</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -497,8 +497,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174860</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616643</millis>
   <sequence>55</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -508,8 +508,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174861</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616643</millis>
   <sequence>56</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -519,8 +519,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174861</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616643</millis>
   <sequence>57</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -530,8 +530,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174862</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616644</millis>
   <sequence>58</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -541,8 +541,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174862</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616644</millis>
   <sequence>59</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -552,8 +552,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174863</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616644</millis>
   <sequence>60</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -563,8 +563,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174863</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616645</millis>
   <sequence>61</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -574,8 +574,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174864</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616645</millis>
   <sequence>62</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -585,8 +585,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174864</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616645</millis>
   <sequence>63</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -596,8 +596,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174864</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616646</millis>
   <sequence>64</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -607,8 +607,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174865</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616647</millis>
   <sequence>65</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -618,8 +618,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174865</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616647</millis>
   <sequence>66</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -629,8 +629,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174865</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616648</millis>
   <sequence>67</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -640,8 +640,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174866</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616648</millis>
   <sequence>68</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -651,8 +651,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174866</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616649</millis>
   <sequence>69</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -662,8 +662,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174867</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616649</millis>
   <sequence>70</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -673,8 +673,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174867</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616650</millis>
   <sequence>71</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -684,8 +684,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174868</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616650</millis>
   <sequence>72</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -695,8 +695,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174868</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616651</millis>
   <sequence>73</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -706,8 +706,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174869</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616651</millis>
   <sequence>74</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -717,8 +717,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174869</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616652</millis>
   <sequence>75</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -728,8 +728,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174870</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616652</millis>
   <sequence>76</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -739,8 +739,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174870</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616653</millis>
   <sequence>77</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -750,8 +750,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174871</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616653</millis>
   <sequence>78</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -761,8 +761,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174871</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616653</millis>
   <sequence>79</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -772,8 +772,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174871</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616654</millis>
   <sequence>80</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -783,8 +783,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174872</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616654</millis>
   <sequence>81</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -794,8 +794,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174872</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616654</millis>
   <sequence>82</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -805,8 +805,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174873</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616654</millis>
   <sequence>83</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -816,8 +816,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174873</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616655</millis>
   <sequence>84</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -827,8 +827,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174873</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616655</millis>
   <sequence>85</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -838,8 +838,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174874</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616655</millis>
   <sequence>86</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -849,8 +849,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174874</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616655</millis>
   <sequence>87</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -860,8 +860,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174875</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616656</millis>
   <sequence>88</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -871,8 +871,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174875</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616656</millis>
   <sequence>89</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -882,8 +882,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174876</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616656</millis>
   <sequence>90</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -893,8 +893,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174876</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616657</millis>
   <sequence>91</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -904,8 +904,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174877</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616657</millis>
   <sequence>92</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -915,8 +915,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174877</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616657</millis>
   <sequence>93</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -926,8 +926,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174878</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616657</millis>
   <sequence>94</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -937,8 +937,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174878</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616658</millis>
   <sequence>95</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -948,8 +948,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174878</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616658</millis>
   <sequence>96</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -959,8 +959,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174879</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616658</millis>
   <sequence>97</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -970,8 +970,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174879</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616658</millis>
   <sequence>98</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -981,8 +981,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174880</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616659</millis>
   <sequence>99</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -992,8 +992,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174880</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616659</millis>
   <sequence>100</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1003,8 +1003,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174880</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616659</millis>
   <sequence>101</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1014,8 +1014,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174881</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616660</millis>
   <sequence>102</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1025,8 +1025,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174881</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616660</millis>
   <sequence>103</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1036,8 +1036,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174882</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616660</millis>
   <sequence>104</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1047,8 +1047,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174882</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616661</millis>
   <sequence>105</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1058,8 +1058,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174882</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616661</millis>
   <sequence>106</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1069,8 +1069,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174882</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616661</millis>
   <sequence>107</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1080,8 +1080,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174883</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616661</millis>
   <sequence>108</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1091,8 +1091,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174883</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616662</millis>
   <sequence>109</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1102,8 +1102,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174883</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616662</millis>
   <sequence>110</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1113,8 +1113,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174884</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616662</millis>
   <sequence>111</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1124,8 +1124,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174884</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616663</millis>
   <sequence>112</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1135,8 +1135,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174885</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616663</millis>
   <sequence>113</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1146,8 +1146,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174885</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616663</millis>
   <sequence>114</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1157,8 +1157,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174885</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616663</millis>
   <sequence>115</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1168,8 +1168,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174886</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616663</millis>
   <sequence>116</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1179,8 +1179,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174886</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616664</millis>
   <sequence>117</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1190,8 +1190,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174886</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616664</millis>
   <sequence>118</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1201,8 +1201,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174887</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616664</millis>
   <sequence>119</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1212,8 +1212,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174887</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616664</millis>
   <sequence>120</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1223,8 +1223,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174887</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616664</millis>
   <sequence>121</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1234,8 +1234,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174888</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616665</millis>
   <sequence>122</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1245,8 +1245,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174888</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616665</millis>
   <sequence>123</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1256,8 +1256,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174889</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616665</millis>
   <sequence>124</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1267,8 +1267,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174889</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616665</millis>
   <sequence>125</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1278,8 +1278,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174889</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616665</millis>
   <sequence>126</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1289,8 +1289,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174889</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616666</millis>
   <sequence>127</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1300,8 +1300,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174890</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616666</millis>
   <sequence>128</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1311,8 +1311,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174890</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616666</millis>
   <sequence>129</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1322,8 +1322,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174891</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616666</millis>
   <sequence>130</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1333,8 +1333,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174891</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616666</millis>
   <sequence>131</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1344,8 +1344,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174891</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616667</millis>
   <sequence>132</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1355,8 +1355,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174892</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616667</millis>
   <sequence>133</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1366,8 +1366,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174892</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616667</millis>
   <sequence>134</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1377,8 +1377,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174892</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616667</millis>
   <sequence>135</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1388,8 +1388,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174892</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616668</millis>
   <sequence>136</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1399,8 +1399,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174892</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616668</millis>
   <sequence>137</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1410,8 +1410,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174893</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616668</millis>
   <sequence>138</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1421,8 +1421,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174893</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616669</millis>
   <sequence>139</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1432,8 +1432,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174894</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616670</millis>
   <sequence>140</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1443,8 +1443,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174894</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616670</millis>
   <sequence>141</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1454,8 +1454,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174894</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616671</millis>
   <sequence>142</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1465,8 +1465,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174894</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616671</millis>
   <sequence>143</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1476,8 +1476,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174895</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616671</millis>
   <sequence>144</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1487,8 +1487,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174895</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616672</millis>
   <sequence>145</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1498,8 +1498,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174895</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616672</millis>
   <sequence>146</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1509,8 +1509,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174895</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616673</millis>
   <sequence>147</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1520,8 +1520,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174896</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616673</millis>
   <sequence>148</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1531,8 +1531,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174896</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616673</millis>
   <sequence>149</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1542,8 +1542,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174896</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616673</millis>
   <sequence>150</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1553,8 +1553,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174896</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616674</millis>
   <sequence>151</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1564,8 +1564,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174897</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616674</millis>
   <sequence>152</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1575,8 +1575,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174897</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616674</millis>
   <sequence>153</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1586,8 +1586,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174898</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616674</millis>
   <sequence>154</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1597,8 +1597,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174898</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616675</millis>
   <sequence>155</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1608,8 +1608,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174898</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616675</millis>
   <sequence>156</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1619,8 +1619,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174899</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616675</millis>
   <sequence>157</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1630,8 +1630,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174899</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616676</millis>
   <sequence>158</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1641,8 +1641,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174899</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616677</millis>
   <sequence>159</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1652,8 +1652,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174900</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616678</millis>
   <sequence>160</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1663,8 +1663,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174900</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616679</millis>
   <sequence>161</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1674,8 +1674,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174900</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616679</millis>
   <sequence>162</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1685,8 +1685,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174900</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616679</millis>
   <sequence>163</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1696,8 +1696,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174901</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616680</millis>
   <sequence>164</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1707,8 +1707,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174901</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616681</millis>
   <sequence>165</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1718,8 +1718,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174901</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616682</millis>
   <sequence>166</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1729,8 +1729,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174902</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616682</millis>
   <sequence>167</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1740,8 +1740,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174902</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616682</millis>
   <sequence>168</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1751,8 +1751,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174902</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616683</millis>
   <sequence>169</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1762,8 +1762,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174902</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616683</millis>
   <sequence>170</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1773,8 +1773,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174903</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616683</millis>
   <sequence>171</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1784,8 +1784,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174903</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616683</millis>
   <sequence>172</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1795,8 +1795,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174903</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616684</millis>
   <sequence>173</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1806,8 +1806,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174903</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616684</millis>
   <sequence>174</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1817,8 +1817,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174904</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616684</millis>
   <sequence>175</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1828,8 +1828,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174904</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616684</millis>
   <sequence>176</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1839,8 +1839,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174904</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616685</millis>
   <sequence>177</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1850,8 +1850,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174905</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616685</millis>
   <sequence>178</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1861,8 +1861,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174905</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616685</millis>
   <sequence>179</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1872,8 +1872,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174905</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616685</millis>
   <sequence>180</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1883,8 +1883,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174905</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616686</millis>
   <sequence>181</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1894,8 +1894,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174905</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616686</millis>
   <sequence>182</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1905,8 +1905,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174905</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616686</millis>
   <sequence>183</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1916,8 +1916,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174906</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616686</millis>
   <sequence>184</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1927,8 +1927,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174906</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616687</millis>
   <sequence>185</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1938,8 +1938,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174906</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616687</millis>
   <sequence>186</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1949,8 +1949,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174906</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616687</millis>
   <sequence>187</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1960,8 +1960,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174906</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616687</millis>
   <sequence>188</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1971,8 +1971,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174906</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616688</millis>
   <sequence>189</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1982,8 +1982,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174907</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616688</millis>
   <sequence>190</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -1993,8 +1993,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174907</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616688</millis>
   <sequence>191</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2004,8 +2004,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174907</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616688</millis>
   <sequence>192</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2015,8 +2015,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174907</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616689</millis>
   <sequence>193</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2026,8 +2026,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174907</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616689</millis>
   <sequence>194</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2037,8 +2037,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174907</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616689</millis>
   <sequence>195</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2048,8 +2048,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174908</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616689</millis>
   <sequence>196</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2059,8 +2059,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174908</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616690</millis>
   <sequence>197</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2070,8 +2070,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174908</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616690</millis>
   <sequence>198</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2081,8 +2081,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174908</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616690</millis>
   <sequence>199</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2092,8 +2092,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174908</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616690</millis>
   <sequence>200</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2103,8 +2103,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174908</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616690</millis>
   <sequence>201</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2114,8 +2114,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174908</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616690</millis>
   <sequence>202</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2125,8 +2125,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174909</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616691</millis>
   <sequence>203</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2136,8 +2136,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174909</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616691</millis>
   <sequence>204</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2147,8 +2147,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174909</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616691</millis>
   <sequence>205</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2158,8 +2158,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174909</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616691</millis>
   <sequence>206</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2169,8 +2169,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174909</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616691</millis>
   <sequence>207</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2180,8 +2180,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174909</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616692</millis>
   <sequence>208</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2191,8 +2191,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174910</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616692</millis>
   <sequence>209</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2202,8 +2202,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174910</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616693</millis>
   <sequence>210</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2213,8 +2213,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174910</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616693</millis>
   <sequence>211</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2224,8 +2224,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174910</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616693</millis>
   <sequence>212</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2235,8 +2235,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174910</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616693</millis>
   <sequence>213</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2246,8 +2246,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174911</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616694</millis>
   <sequence>214</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2257,8 +2257,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174911</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616694</millis>
   <sequence>215</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2268,8 +2268,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174911</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616694</millis>
   <sequence>216</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2279,8 +2279,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174911</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616694</millis>
   <sequence>217</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2290,8 +2290,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174911</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616694</millis>
   <sequence>218</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2301,8 +2301,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174911</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616695</millis>
   <sequence>219</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2312,8 +2312,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174912</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616695</millis>
   <sequence>220</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2323,8 +2323,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174912</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616695</millis>
   <sequence>221</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2334,8 +2334,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174912</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616695</millis>
   <sequence>222</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2345,8 +2345,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174912</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616696</millis>
   <sequence>223</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2356,8 +2356,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174912</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616696</millis>
   <sequence>224</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2367,8 +2367,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174912</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616696</millis>
   <sequence>225</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2378,8 +2378,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174912</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616696</millis>
   <sequence>226</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2389,8 +2389,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174913</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616696</millis>
   <sequence>227</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2400,8 +2400,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174913</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616697</millis>
   <sequence>228</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2411,8 +2411,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174913</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616697</millis>
   <sequence>229</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2422,8 +2422,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174913</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616697</millis>
   <sequence>230</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2433,8 +2433,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174913</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616697</millis>
   <sequence>231</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2444,8 +2444,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174913</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616697</millis>
   <sequence>232</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2455,8 +2455,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174914</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616698</millis>
   <sequence>233</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2466,8 +2466,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174914</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616698</millis>
   <sequence>234</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2477,8 +2477,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174914</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616698</millis>
   <sequence>235</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2488,8 +2488,8 @@
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174915</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616698</millis>
   <sequence>236</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2499,8 +2499,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174915</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616698</millis>
   <sequence>237</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2510,8 +2510,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174915</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616698</millis>
   <sequence>238</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2521,8 +2521,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174915</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616699</millis>
   <sequence>239</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2532,8 +2532,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174915</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616699</millis>
   <sequence>240</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2543,8 +2543,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174916</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616699</millis>
   <sequence>241</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2554,8 +2554,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174916</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616699</millis>
   <sequence>242</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2565,8 +2565,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174916</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616699</millis>
   <sequence>243</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2576,8 +2576,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174916</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616700</millis>
   <sequence>244</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2587,8 +2587,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174916</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616700</millis>
   <sequence>245</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2598,8 +2598,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174916</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616700</millis>
   <sequence>246</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2609,8 +2609,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174916</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616700</millis>
   <sequence>247</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2620,8 +2620,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174917</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616700</millis>
   <sequence>248</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2631,8 +2631,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174917</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616701</millis>
   <sequence>249</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2642,8 +2642,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174917</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616701</millis>
   <sequence>250</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2653,8 +2653,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174917</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616701</millis>
   <sequence>251</sequence>
   <logger>edu.neu.csye6200.sim.Stem</logger>
   <level>INFO</level>
@@ -2664,8 +2664,8 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174938</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616729</millis>
   <sequence>252</sequence>
   <logger>edu.neu.csye6200.sim.RegistryIO</logger>
   <level>INFO</level>
@@ -2675,8 +2675,8 @@
   <message>Save method is called</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174955</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616745</millis>
   <sequence>253</sequence>
   <logger>edu.neu.csye6200.sim.RegistryIO</logger>
   <level>INFO</level>
@@ -2686,8 +2686,8 @@
   <message>Load method is called</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174969</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616761</millis>
   <sequence>254</sequence>
   <logger>edu.neu.csye6200.sim.Plant</logger>
   <level>INFO</level>
@@ -2697,8 +2697,8 @@
   <message>Constructing a Plant instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174969</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616762</millis>
   <sequence>255</sequence>
   <logger>edu.neu.csye6200.sim.Plant</logger>
   <level>INFO</level>
@@ -2708,8 +2708,8 @@
   <message>Constructing a Plant instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174969</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616762</millis>
   <sequence>256</sequence>
   <logger>edu.neu.csye6200.sim.Plant</logger>
   <level>INFO</level>
@@ -2719,8 +2719,8 @@
   <message>Constructing a Plant instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174970</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616763</millis>
   <sequence>257</sequence>
   <logger>edu.neu.csye6200.sim.Plant</logger>
   <level>INFO</level>
@@ -2730,8 +2730,8 @@
   <message>Constructing a Plant instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174970</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616763</millis>
   <sequence>258</sequence>
   <logger>edu.neu.csye6200.sim.FlowerPlant</logger>
   <level>INFO</level>
@@ -2741,8 +2741,8 @@
   <message>Constructing a FlowerPlant instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174970</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616763</millis>
   <sequence>259</sequence>
   <logger>edu.neu.csye6200.sim.Plant</logger>
   <level>INFO</level>
@@ -2752,8 +2752,8 @@
   <message>Constructing a Plant instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174971</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616763</millis>
   <sequence>260</sequence>
   <logger>edu.neu.csye6200.sim.FlowerPlant</logger>
   <level>INFO</level>
@@ -2763,8 +2763,8 @@
   <message>Constructing a FlowerPlant instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174971</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616763</millis>
   <sequence>261</sequence>
   <logger>edu.neu.csye6200.sim.Plant</logger>
   <level>INFO</level>
@@ -2774,8 +2774,8 @@
   <message>Constructing a Plant instance</message>
 </record>
 <record>
-  <date>2018-10-31T13:32:54</date>
-  <millis>1541007174971</millis>
+  <date>2018-10-31T13:56:56</date>
+  <millis>1541008616764</millis>
   <sequence>262</sequence>
   <logger>edu.neu.csye6200.sim.FlowerPlant</logger>
   <level>INFO</level>
