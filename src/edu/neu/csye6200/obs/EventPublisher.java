@@ -19,14 +19,14 @@ public class EventPublisher extends Observable{
 	//An event has occurred, so notify the subscribers
 	public void doAction() {
 		setChanged();	//Indicate that a change has happened
-		notifyObservers(new String("A message" + ctr++));
+		notifyObservers(new String("A message" + ctr));
 	}
 	
 	//Do a lot of message
 	public void run() {
 		while(!done) {
 			doAction();
-			if(ctr++ > 10)
+			if(++ctr > 10)
 				done = true;
 		}
 	}
@@ -36,6 +36,9 @@ public class EventPublisher extends Observable{
 	 */
 	public static void main(String[] args) {
 		EventPublisher ep = new EventPublisher();	//we have a publisher
+		EventSubscriber sub1 = new EventSubscriber();	//we have a subscriber
+		ep.addObserver(sub1);
+		
 		ep.run();
 	}
 }
