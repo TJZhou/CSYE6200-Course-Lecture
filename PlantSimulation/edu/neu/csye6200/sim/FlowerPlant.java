@@ -2,6 +2,8 @@ package edu.neu.csye6200.sim;
 
 import java.util.logging.Logger;
 
+import edu.neu.csye6200.bg.BGStem;
+
 /**
  * @author Tianju Zhou NUID 001420546
  */
@@ -58,7 +60,7 @@ public class FlowerPlant extends Plant {
 		super.plantGrowth(age);
 		
 		for(int i = (int) (this.getBaseStem().getStemID() + Math.pow(2, age - 1)); i < this.getBaseStem().getStemID() + Math.pow(2, age); i++){
-			flower = new Flower(Stem.getStemMap().get(i).getLocationX(), Stem.getStemMap().get(i).getLocationY(), this.color, this.petalNumber);
+			flower = new Flower(BGStem.getStemMap().get(i).getLocationX(), BGStem.getStemMap().get(i).getLocationY(), this.color, this.petalNumber);
 			this.flowerNumbers++;
 			setFlowerNumbers(this.flowerNumbers);
 		}	

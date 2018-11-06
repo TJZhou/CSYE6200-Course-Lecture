@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.logging.Logger;
 
+import edu.neu.csye6200.bg.BGStem;
 import edu.neu.csye6200.sim.Flower;
-import edu.neu.csye6200.sim.Stem;
 
 /**
  * @author Tianju Zhou

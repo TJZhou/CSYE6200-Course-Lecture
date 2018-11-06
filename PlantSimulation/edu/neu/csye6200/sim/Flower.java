@@ -3,6 +3,8 @@ package edu.neu.csye6200.sim;
 import java.util.HashMap;
 import java.util.logging.Logger;
 
+import edu.neu.csye6200.bg.BGStem;
+
 /**
  * @author Tianju Zhou NUID 001420546
  *
@@ -12,7 +14,7 @@ public class Flower {
 	//create a static HashMap to store all the stems 
 	private static HashMap<Integer, Flower> flowerMap = new HashMap<Integer, Flower>();
 	
-	private static Logger log = Logger.getLogger(Stem.class.getName());
+	private static Logger log = Logger.getLogger(BGStem.class.getName());
 	
 	private static int flowerCounter = 0;
 	
