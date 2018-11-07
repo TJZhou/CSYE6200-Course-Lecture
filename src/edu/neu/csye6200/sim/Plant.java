@@ -1,7 +1,6 @@
 package edu.neu.csye6200.sim;
 
 import java.util.logging.Logger;
-import edu.neu.csye6200.bg.*;
 /**
  * @author Tianju Zhou NUID 001420546
  */
@@ -16,10 +15,10 @@ public class Plant {
 	private int age; 		
 	private double length; 	
 	private double width;
-	private BGStem baseStem;
+	private Stem baseStem;
 	
 	@SuppressWarnings("unused")
-	private BGStem stem;	
+	private Stem stem;	
 	
 	// constructor
 	Plant(String plantName, double length) {
@@ -83,7 +82,7 @@ public class Plant {
 	}
 	
 	//get the baseStem
-	public BGStem getBaseStem() {
+	public Stem getBaseStem() {
 		return baseStem;
 	}
 
@@ -121,7 +120,7 @@ public class Plant {
 	// method to growth 
 	public void growthPlant1(int age, double baseLength, int rotateRadian) {
 
-		baseStem = new BGStem(0, 0, baseLength, 90);
+		baseStem = new Stem(0, 0, baseLength, 90);
 
 		// in order to calculate radians, LocationX/Y, length later
 		double radians, X, Y, length;
@@ -132,8 +131,8 @@ public class Plant {
 		 * Parameters here are able to change and adapt 
 		 * It's able to increase the value of age to add more stems
 		 */
-		stem = new BGStem(0, baseLength, baseLength - 5, 90 + rotateRadian);
-		stem = new BGStem(0, baseLength, baseLength - 5, 90 - rotateRadian);
+		stem = new Stem(0, baseLength, baseLength - 5, 90 + rotateRadian);
+		stem = new Stem(0, baseLength, baseLength - 5, 90 - rotateRadian);
 		if (age >= 2) {
 			// Let every stem has two child stems
 			for (int i = ID + 3; i < ID + Math.pow(2, age); i++) {
@@ -142,11 +141,11 @@ public class Plant {
 				if (i % 2 == 1) {
 					// get the last stem's radians, location x and y, length; in
 					// orede to create new stem
-					radians = BGStem.getFromHashMap((i - ID - 1) / 2 + ID).getRadians();
-					X = BGStem.getFromHashMap((i - ID - 1) / 2 + ID).getLocationX();
-					Y = BGStem.getFromHashMap((i - ID - 1) / 2 + ID).getLocationY();
-					length = BGStem.getFromHashMap((i - ID - 1) / 2 + ID).getLength();
-					stem = new BGStem(
+					radians = Stem.getFromHashMap((i - ID - 1) / 2 + ID).getRadians();
+					X = Stem.getFromHashMap((i - ID - 1) / 2 + ID).getLocationX();
+					Y = Stem.getFromHashMap((i - ID - 1) / 2 + ID).getLocationY();
+					length = Stem.getFromHashMap((i - ID - 1) / 2 + ID).getLength();
+					stem = new Stem(
 							// locationX
 							(X + length * Math.cos(radians)),
 							// locationY
@@ -159,11 +158,11 @@ public class Plant {
 
 				// stems grow to right side
 				else if (i % 2 == 0) {
-					radians = BGStem.getFromHashMap((i - ID - 2) / 2 + ID).getRadians();
-					X = BGStem.getFromHashMap((i - ID - 2) / 2 + ID).getLocationX();
-					Y = BGStem.getFromHashMap((i - ID - 2) / 2 + ID).getLocationY();
-					length = BGStem.getFromHashMap((i - ID - 2) / 2 + ID).getLength();
-					stem = new BGStem((X + length * Math.cos(radians)), (Y + length * Math.sin(radians)),
+					radians = Stem.getFromHashMap((i - ID - 2) / 2 + ID).getRadians();
+					X = Stem.getFromHashMap((i - ID - 2) / 2 + ID).getLocationX();
+					Y = Stem.getFromHashMap((i - ID - 2) / 2 + ID).getLocationY();
+					length = Stem.getFromHashMap((i - ID - 2) / 2 + ID).getLength();
+					stem = new Stem((X + length * Math.cos(radians)), (Y + length * Math.sin(radians)),
 							(baseLength - ((int) (Math.log(i - ID + 1) / Math.log(2))) * 5), radians - rotateRadian);
 				}
 			}

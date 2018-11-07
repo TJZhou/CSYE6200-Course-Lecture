@@ -1,11 +1,7 @@
 package edu.neu.csye6200.inheritTest;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.logging.Logger;
-
-import edu.neu.csye6200.bg.BGStem;
-import edu.neu.csye6200.sim.Flower;
 
 /**
  * @author Tianju Zhou
