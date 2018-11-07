@@ -2,9 +2,9 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2018-11-01T21:07:33.560821Z</date>
-  <millis>1541106453560</millis>
-  <nanos>821000</nanos>
+  <date>2018-11-07T15:35:27.456649Z</date>
+  <millis>1541604927456</millis>
+  <nanos>649000</nanos>
   <sequence>10</sequence>
   <logger>edu.neu.csye6200.sim.RegistryIO</logger>
   <level>INFO</level>
@@ -14,9 +14,9 @@
   <message>Constructing a RegistryIO instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.567417Z</date>
-  <millis>1541106453567</millis>
-  <nanos>417000</nanos>
+  <date>2018-11-07T15:35:27.464294Z</date>
+  <millis>1541604927464</millis>
+  <nanos>294000</nanos>
   <sequence>11</sequence>
   <logger>edu.neu.csye6200.inheritTest.MeterManager</logger>
   <level>INFO</level>
@@ -26,2843 +26,2843 @@
   <message>Constructing a MeterManager instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.572558Z</date>
-  <millis>1541106453572</millis>
-  <nanos>558000</nanos>
-  <sequence>12</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.573386Z</date>
-  <millis>1541106453573</millis>
-  <nanos>386000</nanos>
-  <sequence>13</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.573922Z</date>
-  <millis>1541106453573</millis>
-  <nanos>922000</nanos>
-  <sequence>14</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.574449Z</date>
-  <millis>1541106453574</millis>
-  <nanos>449000</nanos>
-  <sequence>15</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.574957Z</date>
-  <millis>1541106453574</millis>
-  <nanos>957000</nanos>
-  <sequence>16</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.575416Z</date>
-  <millis>1541106453575</millis>
-  <nanos>416000</nanos>
-  <sequence>17</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.575851Z</date>
-  <millis>1541106453575</millis>
-  <nanos>851000</nanos>
-  <sequence>18</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.576399Z</date>
-  <millis>1541106453576</millis>
-  <nanos>399000</nanos>
-  <sequence>19</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.576848Z</date>
-  <millis>1541106453576</millis>
-  <nanos>848000</nanos>
-  <sequence>20</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.577251Z</date>
-  <millis>1541106453577</millis>
-  <nanos>251000</nanos>
-  <sequence>21</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.577735Z</date>
-  <millis>1541106453577</millis>
-  <nanos>735000</nanos>
-  <sequence>22</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.578155Z</date>
-  <millis>1541106453578</millis>
-  <nanos>155000</nanos>
-  <sequence>23</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.578527Z</date>
-  <millis>1541106453578</millis>
-  <nanos>527000</nanos>
-  <sequence>24</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.578893Z</date>
-  <millis>1541106453578</millis>
-  <nanos>893000</nanos>
-  <sequence>25</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.579379Z</date>
-  <millis>1541106453579</millis>
-  <nanos>379000</nanos>
-  <sequence>26</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.579756Z</date>
-  <millis>1541106453579</millis>
-  <nanos>756000</nanos>
-  <sequence>27</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.580190Z</date>
-  <millis>1541106453580</millis>
-  <nanos>190000</nanos>
-  <sequence>28</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.580571Z</date>
-  <millis>1541106453580</millis>
-  <nanos>571000</nanos>
-  <sequence>29</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.580918Z</date>
-  <millis>1541106453580</millis>
-  <nanos>918000</nanos>
-  <sequence>30</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.581275Z</date>
-  <millis>1541106453581</millis>
-  <nanos>275000</nanos>
-  <sequence>31</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.581650Z</date>
-  <millis>1541106453581</millis>
-  <nanos>650000</nanos>
-  <sequence>32</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.582106Z</date>
-  <millis>1541106453582</millis>
-  <nanos>106000</nanos>
-  <sequence>33</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.582482Z</date>
-  <millis>1541106453582</millis>
-  <nanos>482000</nanos>
-  <sequence>34</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.582942Z</date>
-  <millis>1541106453582</millis>
-  <nanos>942000</nanos>
-  <sequence>35</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.583317Z</date>
-  <millis>1541106453583</millis>
-  <nanos>317000</nanos>
-  <sequence>36</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.583827Z</date>
-  <millis>1541106453583</millis>
-  <nanos>827000</nanos>
-  <sequence>37</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.584193Z</date>
-  <millis>1541106453584</millis>
-  <nanos>193000</nanos>
-  <sequence>38</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.584538Z</date>
-  <millis>1541106453584</millis>
-  <nanos>538000</nanos>
-  <sequence>39</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.584992Z</date>
-  <millis>1541106453584</millis>
-  <nanos>992000</nanos>
-  <sequence>40</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.585339Z</date>
-  <millis>1541106453585</millis>
-  <nanos>339000</nanos>
-  <sequence>41</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.585657Z</date>
-  <millis>1541106453585</millis>
-  <nanos>657000</nanos>
-  <sequence>42</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.585994Z</date>
-  <millis>1541106453585</millis>
-  <nanos>994000</nanos>
-  <sequence>43</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.586413Z</date>
-  <millis>1541106453586</millis>
-  <nanos>413000</nanos>
-  <sequence>44</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.586753Z</date>
-  <millis>1541106453586</millis>
-  <nanos>753000</nanos>
-  <sequence>45</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.587092Z</date>
-  <millis>1541106453587</millis>
-  <nanos>92000</nanos>
-  <sequence>46</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.587445Z</date>
-  <millis>1541106453587</millis>
-  <nanos>445000</nanos>
-  <sequence>47</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.587763Z</date>
-  <millis>1541106453587</millis>
-  <nanos>763000</nanos>
-  <sequence>48</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.588126Z</date>
-  <millis>1541106453588</millis>
-  <nanos>126000</nanos>
-  <sequence>49</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.588464Z</date>
-  <millis>1541106453588</millis>
-  <nanos>464000</nanos>
-  <sequence>50</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.588796Z</date>
-  <millis>1541106453588</millis>
-  <nanos>796000</nanos>
-  <sequence>51</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.589155Z</date>
-  <millis>1541106453589</millis>
-  <nanos>155000</nanos>
-  <sequence>52</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.589515Z</date>
-  <millis>1541106453589</millis>
-  <nanos>515000</nanos>
-  <sequence>53</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.590017Z</date>
-  <millis>1541106453590</millis>
-  <nanos>17000</nanos>
-  <sequence>54</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.590503Z</date>
-  <millis>1541106453590</millis>
-  <nanos>503000</nanos>
-  <sequence>55</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.590974Z</date>
-  <millis>1541106453590</millis>
-  <nanos>974000</nanos>
-  <sequence>56</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.591327Z</date>
-  <millis>1541106453591</millis>
-  <nanos>327000</nanos>
-  <sequence>57</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.591641Z</date>
-  <millis>1541106453591</millis>
-  <nanos>641000</nanos>
-  <sequence>58</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.591960Z</date>
-  <millis>1541106453591</millis>
-  <nanos>960000</nanos>
-  <sequence>59</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.592279Z</date>
-  <millis>1541106453592</millis>
-  <nanos>279000</nanos>
-  <sequence>60</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.592564Z</date>
-  <millis>1541106453592</millis>
-  <nanos>564000</nanos>
-  <sequence>61</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.592850Z</date>
-  <millis>1541106453592</millis>
-  <nanos>850000</nanos>
-  <sequence>62</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.593131Z</date>
-  <millis>1541106453593</millis>
-  <nanos>131000</nanos>
-  <sequence>63</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.593441Z</date>
-  <millis>1541106453593</millis>
-  <nanos>441000</nanos>
-  <sequence>64</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.593717Z</date>
-  <millis>1541106453593</millis>
-  <nanos>717000</nanos>
-  <sequence>65</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.594023Z</date>
-  <millis>1541106453594</millis>
-  <nanos>23000</nanos>
-  <sequence>66</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.594344Z</date>
-  <millis>1541106453594</millis>
-  <nanos>344000</nanos>
-  <sequence>67</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.594626Z</date>
-  <millis>1541106453594</millis>
-  <nanos>626000</nanos>
-  <sequence>68</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.594906Z</date>
-  <millis>1541106453594</millis>
-  <nanos>906000</nanos>
-  <sequence>69</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.595165Z</date>
-  <millis>1541106453595</millis>
-  <nanos>165000</nanos>
-  <sequence>70</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.595429Z</date>
-  <millis>1541106453595</millis>
-  <nanos>429000</nanos>
-  <sequence>71</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.595733Z</date>
-  <millis>1541106453595</millis>
-  <nanos>733000</nanos>
-  <sequence>72</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.595999Z</date>
-  <millis>1541106453595</millis>
-  <nanos>999000</nanos>
-  <sequence>73</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.596308Z</date>
-  <millis>1541106453596</millis>
-  <nanos>308000</nanos>
-  <sequence>74</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.596620Z</date>
-  <millis>1541106453596</millis>
-  <nanos>620000</nanos>
-  <sequence>75</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.597126Z</date>
-  <millis>1541106453597</millis>
-  <nanos>126000</nanos>
-  <sequence>76</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.597479Z</date>
-  <millis>1541106453597</millis>
-  <nanos>479000</nanos>
-  <sequence>77</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.597821Z</date>
-  <millis>1541106453597</millis>
-  <nanos>821000</nanos>
-  <sequence>78</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.598255Z</date>
-  <millis>1541106453598</millis>
-  <nanos>255000</nanos>
-  <sequence>79</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.598571Z</date>
-  <millis>1541106453598</millis>
-  <nanos>571000</nanos>
-  <sequence>80</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.598908Z</date>
-  <millis>1541106453598</millis>
-  <nanos>908000</nanos>
-  <sequence>81</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.599309Z</date>
-  <millis>1541106453599</millis>
-  <nanos>309000</nanos>
-  <sequence>82</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.599608Z</date>
-  <millis>1541106453599</millis>
-  <nanos>608000</nanos>
-  <sequence>83</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.599935Z</date>
-  <millis>1541106453599</millis>
-  <nanos>935000</nanos>
-  <sequence>84</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.600287Z</date>
-  <millis>1541106453600</millis>
-  <nanos>287000</nanos>
-  <sequence>85</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.600560Z</date>
-  <millis>1541106453600</millis>
-  <nanos>560000</nanos>
-  <sequence>86</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.600916Z</date>
-  <millis>1541106453600</millis>
-  <nanos>916000</nanos>
-  <sequence>87</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.601206Z</date>
-  <millis>1541106453601</millis>
-  <nanos>206000</nanos>
-  <sequence>88</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.601525Z</date>
-  <millis>1541106453601</millis>
-  <nanos>525000</nanos>
-  <sequence>89</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.601861Z</date>
-  <millis>1541106453601</millis>
-  <nanos>861000</nanos>
-  <sequence>90</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.602174Z</date>
-  <millis>1541106453602</millis>
-  <nanos>174000</nanos>
-  <sequence>91</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.602443Z</date>
-  <millis>1541106453602</millis>
-  <nanos>443000</nanos>
-  <sequence>92</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.602695Z</date>
-  <millis>1541106453602</millis>
-  <nanos>695000</nanos>
-  <sequence>93</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.603022Z</date>
-  <millis>1541106453603</millis>
-  <nanos>22000</nanos>
-  <sequence>94</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.603335Z</date>
-  <millis>1541106453603</millis>
-  <nanos>335000</nanos>
-  <sequence>95</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.603621Z</date>
-  <millis>1541106453603</millis>
-  <nanos>621000</nanos>
-  <sequence>96</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.603886Z</date>
-  <millis>1541106453603</millis>
-  <nanos>886000</nanos>
-  <sequence>97</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.604189Z</date>
-  <millis>1541106453604</millis>
-  <nanos>189000</nanos>
-  <sequence>98</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.604464Z</date>
-  <millis>1541106453604</millis>
-  <nanos>464000</nanos>
-  <sequence>99</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.604750Z</date>
-  <millis>1541106453604</millis>
-  <nanos>750000</nanos>
-  <sequence>100</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.605013Z</date>
-  <millis>1541106453605</millis>
-  <nanos>13000</nanos>
-  <sequence>101</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.605342Z</date>
-  <millis>1541106453605</millis>
-  <nanos>342000</nanos>
-  <sequence>102</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.605651Z</date>
-  <millis>1541106453605</millis>
-  <nanos>651000</nanos>
-  <sequence>103</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.606007Z</date>
-  <millis>1541106453606</millis>
-  <nanos>7000</nanos>
-  <sequence>104</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.606325Z</date>
-  <millis>1541106453606</millis>
-  <nanos>325000</nanos>
-  <sequence>105</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.606745Z</date>
-  <millis>1541106453606</millis>
-  <nanos>745000</nanos>
-  <sequence>106</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.607098Z</date>
-  <millis>1541106453607</millis>
-  <nanos>98000</nanos>
-  <sequence>107</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.607571Z</date>
-  <millis>1541106453607</millis>
-  <nanos>571000</nanos>
-  <sequence>108</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.607881Z</date>
-  <millis>1541106453607</millis>
-  <nanos>881000</nanos>
-  <sequence>109</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.608133Z</date>
-  <millis>1541106453608</millis>
-  <nanos>133000</nanos>
-  <sequence>110</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.608737Z</date>
-  <millis>1541106453608</millis>
-  <nanos>737000</nanos>
-  <sequence>111</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.609028Z</date>
-  <millis>1541106453609</millis>
-  <nanos>28000</nanos>
-  <sequence>112</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.609304Z</date>
-  <millis>1541106453609</millis>
-  <nanos>304000</nanos>
-  <sequence>113</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.609585Z</date>
-  <millis>1541106453609</millis>
-  <nanos>585000</nanos>
-  <sequence>114</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.609888Z</date>
-  <millis>1541106453609</millis>
-  <nanos>888000</nanos>
-  <sequence>115</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.610364Z</date>
-  <millis>1541106453610</millis>
-  <nanos>364000</nanos>
-  <sequence>116</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.610798Z</date>
-  <millis>1541106453610</millis>
-  <nanos>798000</nanos>
-  <sequence>117</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.611216Z</date>
-  <millis>1541106453611</millis>
-  <nanos>216000</nanos>
-  <sequence>118</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.611566Z</date>
-  <millis>1541106453611</millis>
-  <nanos>566000</nanos>
-  <sequence>119</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.611832Z</date>
-  <millis>1541106453611</millis>
-  <nanos>832000</nanos>
-  <sequence>120</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.612195Z</date>
-  <millis>1541106453612</millis>
-  <nanos>195000</nanos>
-  <sequence>121</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.612474Z</date>
-  <millis>1541106453612</millis>
-  <nanos>474000</nanos>
-  <sequence>122</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.612863Z</date>
-  <millis>1541106453612</millis>
-  <nanos>863000</nanos>
-  <sequence>123</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.613172Z</date>
-  <millis>1541106453613</millis>
-  <nanos>172000</nanos>
-  <sequence>124</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.613428Z</date>
-  <millis>1541106453613</millis>
-  <nanos>428000</nanos>
-  <sequence>125</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.613658Z</date>
-  <millis>1541106453613</millis>
-  <nanos>658000</nanos>
-  <sequence>126</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.613914Z</date>
-  <millis>1541106453613</millis>
-  <nanos>914000</nanos>
-  <sequence>127</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.614229Z</date>
-  <millis>1541106453614</millis>
-  <nanos>229000</nanos>
-  <sequence>128</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.614451Z</date>
-  <millis>1541106453614</millis>
-  <nanos>451000</nanos>
-  <sequence>129</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.614676Z</date>
-  <millis>1541106453614</millis>
-  <nanos>676000</nanos>
-  <sequence>130</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.614898Z</date>
-  <millis>1541106453614</millis>
-  <nanos>898000</nanos>
-  <sequence>131</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.615122Z</date>
-  <millis>1541106453615</millis>
-  <nanos>122000</nanos>
-  <sequence>132</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.615346Z</date>
-  <millis>1541106453615</millis>
-  <nanos>346000</nanos>
-  <sequence>133</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.615602Z</date>
-  <millis>1541106453615</millis>
-  <nanos>602000</nanos>
-  <sequence>134</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.615851Z</date>
-  <millis>1541106453615</millis>
-  <nanos>851000</nanos>
-  <sequence>135</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.616220Z</date>
-  <millis>1541106453616</millis>
-  <nanos>220000</nanos>
-  <sequence>136</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.616495Z</date>
-  <millis>1541106453616</millis>
-  <nanos>495000</nanos>
-  <sequence>137</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.616797Z</date>
-  <millis>1541106453616</millis>
-  <nanos>797000</nanos>
-  <sequence>138</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.617085Z</date>
-  <millis>1541106453617</millis>
-  <nanos>85000</nanos>
-  <sequence>139</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.617876Z</date>
-  <millis>1541106453617</millis>
-  <nanos>876000</nanos>
-  <sequence>140</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.618166Z</date>
-  <millis>1541106453618</millis>
-  <nanos>166000</nanos>
-  <sequence>141</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.618426Z</date>
-  <millis>1541106453618</millis>
-  <nanos>426000</nanos>
-  <sequence>142</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.618704Z</date>
-  <millis>1541106453618</millis>
-  <nanos>704000</nanos>
-  <sequence>143</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.619065Z</date>
-  <millis>1541106453619</millis>
-  <nanos>65000</nanos>
-  <sequence>144</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.619315Z</date>
-  <millis>1541106453619</millis>
-  <nanos>315000</nanos>
-  <sequence>145</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.619551Z</date>
-  <millis>1541106453619</millis>
-  <nanos>551000</nanos>
-  <sequence>146</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.619787Z</date>
-  <millis>1541106453619</millis>
-  <nanos>787000</nanos>
-  <sequence>147</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.620188Z</date>
-  <millis>1541106453620</millis>
-  <nanos>188000</nanos>
-  <sequence>148</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.620549Z</date>
-  <millis>1541106453620</millis>
-  <nanos>549000</nanos>
-  <sequence>149</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.620786Z</date>
-  <millis>1541106453620</millis>
-  <nanos>786000</nanos>
-  <sequence>150</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.621004Z</date>
-  <millis>1541106453621</millis>
-  <nanos>4000</nanos>
-  <sequence>151</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.621229Z</date>
-  <millis>1541106453621</millis>
-  <nanos>229000</nanos>
-  <sequence>152</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.621464Z</date>
-  <millis>1541106453621</millis>
-  <nanos>464000</nanos>
-  <sequence>153</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.621843Z</date>
-  <millis>1541106453621</millis>
-  <nanos>843000</nanos>
-  <sequence>154</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.622112Z</date>
-  <millis>1541106453622</millis>
-  <nanos>112000</nanos>
-  <sequence>155</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.622379Z</date>
-  <millis>1541106453622</millis>
-  <nanos>379000</nanos>
-  <sequence>156</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.622672Z</date>
-  <millis>1541106453622</millis>
-  <nanos>672000</nanos>
-  <sequence>157</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.622963Z</date>
-  <millis>1541106453622</millis>
-  <nanos>963000</nanos>
-  <sequence>158</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.623341Z</date>
-  <millis>1541106453623</millis>
-  <nanos>341000</nanos>
-  <sequence>159</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.623710Z</date>
-  <millis>1541106453623</millis>
-  <nanos>710000</nanos>
-  <sequence>160</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.624059Z</date>
-  <millis>1541106453624</millis>
-  <nanos>59000</nanos>
-  <sequence>161</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.624294Z</date>
-  <millis>1541106453624</millis>
-  <nanos>294000</nanos>
-  <sequence>162</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.624545Z</date>
-  <millis>1541106453624</millis>
-  <nanos>545000</nanos>
-  <sequence>163</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.624778Z</date>
-  <millis>1541106453624</millis>
-  <nanos>778000</nanos>
-  <sequence>164</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.625084Z</date>
-  <millis>1541106453625</millis>
-  <nanos>84000</nanos>
-  <sequence>165</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.625326Z</date>
-  <millis>1541106453625</millis>
-  <nanos>326000</nanos>
-  <sequence>166</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.625563Z</date>
-  <millis>1541106453625</millis>
-  <nanos>563000</nanos>
-  <sequence>167</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.625766Z</date>
-  <millis>1541106453625</millis>
-  <nanos>766000</nanos>
-  <sequence>168</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.625976Z</date>
-  <millis>1541106453625</millis>
-  <nanos>976000</nanos>
-  <sequence>169</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.626209Z</date>
-  <millis>1541106453626</millis>
-  <nanos>209000</nanos>
-  <sequence>170</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.626421Z</date>
-  <millis>1541106453626</millis>
-  <nanos>421000</nanos>
-  <sequence>171</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.626637Z</date>
-  <millis>1541106453626</millis>
-  <nanos>637000</nanos>
-  <sequence>172</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.626958Z</date>
-  <millis>1541106453626</millis>
-  <nanos>958000</nanos>
-  <sequence>173</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.627208Z</date>
-  <millis>1541106453627</millis>
-  <nanos>208000</nanos>
-  <sequence>174</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.627490Z</date>
-  <millis>1541106453627</millis>
-  <nanos>490000</nanos>
-  <sequence>175</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.627727Z</date>
-  <millis>1541106453627</millis>
-  <nanos>727000</nanos>
-  <sequence>176</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.627961Z</date>
-  <millis>1541106453627</millis>
-  <nanos>961000</nanos>
-  <sequence>177</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.628227Z</date>
-  <millis>1541106453628</millis>
-  <nanos>227000</nanos>
-  <sequence>178</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.628434Z</date>
-  <millis>1541106453628</millis>
-  <nanos>434000</nanos>
-  <sequence>179</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.628648Z</date>
-  <millis>1541106453628</millis>
-  <nanos>648000</nanos>
-  <sequence>180</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.628887Z</date>
-  <millis>1541106453628</millis>
-  <nanos>887000</nanos>
-  <sequence>181</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.629101Z</date>
-  <millis>1541106453629</millis>
-  <nanos>101000</nanos>
-  <sequence>182</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.629305Z</date>
-  <millis>1541106453629</millis>
-  <nanos>305000</nanos>
-  <sequence>183</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.629509Z</date>
-  <millis>1541106453629</millis>
-  <nanos>509000</nanos>
-  <sequence>184</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.629727Z</date>
-  <millis>1541106453629</millis>
-  <nanos>727000</nanos>
-  <sequence>185</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.629963Z</date>
-  <millis>1541106453629</millis>
-  <nanos>963000</nanos>
-  <sequence>186</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.630177Z</date>
-  <millis>1541106453630</millis>
-  <nanos>177000</nanos>
-  <sequence>187</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.630396Z</date>
-  <millis>1541106453630</millis>
-  <nanos>396000</nanos>
-  <sequence>188</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.630608Z</date>
-  <millis>1541106453630</millis>
-  <nanos>608000</nanos>
-  <sequence>189</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.630819Z</date>
-  <millis>1541106453630</millis>
-  <nanos>819000</nanos>
-  <sequence>190</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.631022Z</date>
-  <millis>1541106453631</millis>
-  <nanos>22000</nanos>
-  <sequence>191</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.631281Z</date>
-  <millis>1541106453631</millis>
-  <nanos>281000</nanos>
-  <sequence>192</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.631514Z</date>
-  <millis>1541106453631</millis>
-  <nanos>514000</nanos>
-  <sequence>193</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.631743Z</date>
-  <millis>1541106453631</millis>
-  <nanos>743000</nanos>
-  <sequence>194</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.631941Z</date>
-  <millis>1541106453631</millis>
-  <nanos>941000</nanos>
-  <sequence>195</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.632172Z</date>
-  <millis>1541106453632</millis>
-  <nanos>172000</nanos>
-  <sequence>196</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.632405Z</date>
-  <millis>1541106453632</millis>
-  <nanos>405000</nanos>
-  <sequence>197</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.632607Z</date>
-  <millis>1541106453632</millis>
-  <nanos>607000</nanos>
-  <sequence>198</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.632827Z</date>
-  <millis>1541106453632</millis>
-  <nanos>827000</nanos>
-  <sequence>199</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.633043Z</date>
-  <millis>1541106453633</millis>
-  <nanos>43000</nanos>
-  <sequence>200</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.633351Z</date>
-  <millis>1541106453633</millis>
-  <nanos>351000</nanos>
-  <sequence>201</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.633581Z</date>
-  <millis>1541106453633</millis>
-  <nanos>581000</nanos>
-  <sequence>202</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.633803Z</date>
-  <millis>1541106453633</millis>
-  <nanos>803000</nanos>
-  <sequence>203</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Flower instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.634084Z</date>
-  <millis>1541106453634</millis>
-  <nanos>84000</nanos>
-  <sequence>204</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.634294Z</date>
-  <millis>1541106453634</millis>
-  <nanos>294000</nanos>
-  <sequence>205</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.634505Z</date>
-  <millis>1541106453634</millis>
-  <nanos>505000</nanos>
-  <sequence>206</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.634748Z</date>
-  <millis>1541106453634</millis>
-  <nanos>748000</nanos>
-  <sequence>207</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.635051Z</date>
-  <millis>1541106453635</millis>
-  <nanos>51000</nanos>
-  <sequence>208</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.635296Z</date>
-  <millis>1541106453635</millis>
-  <nanos>296000</nanos>
-  <sequence>209</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.635539Z</date>
-  <millis>1541106453635</millis>
-  <nanos>539000</nanos>
-  <sequence>210</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.635792Z</date>
-  <millis>1541106453635</millis>
-  <nanos>792000</nanos>
-  <sequence>211</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.636018Z</date>
-  <millis>1541106453636</millis>
-  <nanos>18000</nanos>
-  <sequence>212</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.636229Z</date>
-  <millis>1541106453636</millis>
-  <nanos>229000</nanos>
-  <sequence>213</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.636445Z</date>
-  <millis>1541106453636</millis>
-  <nanos>445000</nanos>
-  <sequence>214</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.636645Z</date>
-  <millis>1541106453636</millis>
-  <nanos>645000</nanos>
-  <sequence>215</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.636843Z</date>
-  <millis>1541106453636</millis>
-  <nanos>843000</nanos>
-  <sequence>216</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.637110Z</date>
-  <millis>1541106453637</millis>
-  <nanos>110000</nanos>
-  <sequence>217</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.637335Z</date>
-  <millis>1541106453637</millis>
-  <nanos>335000</nanos>
-  <sequence>218</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.637543Z</date>
-  <millis>1541106453637</millis>
-  <nanos>543000</nanos>
-  <sequence>219</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.637751Z</date>
-  <millis>1541106453637</millis>
-  <nanos>751000</nanos>
-  <sequence>220</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.637957Z</date>
-  <millis>1541106453637</millis>
-  <nanos>957000</nanos>
-  <sequence>221</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.638162Z</date>
-  <millis>1541106453638</millis>
-  <nanos>162000</nanos>
-  <sequence>222</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.638401Z</date>
-  <millis>1541106453638</millis>
-  <nanos>401000</nanos>
-  <sequence>223</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.638662Z</date>
-  <millis>1541106453638</millis>
-  <nanos>662000</nanos>
-  <sequence>224</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.639103Z</date>
-  <millis>1541106453639</millis>
-  <nanos>103000</nanos>
-  <sequence>225</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.639412Z</date>
-  <millis>1541106453639</millis>
-  <nanos>412000</nanos>
-  <sequence>226</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.639696Z</date>
-  <millis>1541106453639</millis>
-  <nanos>696000</nanos>
-  <sequence>227</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.639920Z</date>
-  <millis>1541106453639</millis>
-  <nanos>920000</nanos>
-  <sequence>228</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.640210Z</date>
-  <millis>1541106453640</millis>
-  <nanos>210000</nanos>
-  <sequence>229</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.640559Z</date>
-  <millis>1541106453640</millis>
-  <nanos>559000</nanos>
-  <sequence>230</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.640840Z</date>
-  <millis>1541106453640</millis>
-  <nanos>840000</nanos>
-  <sequence>231</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.641124Z</date>
-  <millis>1541106453641</millis>
-  <nanos>124000</nanos>
-  <sequence>232</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
-  <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
-  <method>&lt;init&gt;</method>
-  <thread>1</thread>
-  <message>Constructing a Stem instance</message>
-</record>
-<record>
-  <date>2018-11-01T21:07:33.641404Z</date>
-  <millis>1541106453641</millis>
+  <date>2018-11-07T15:35:27.469404Z</date>
+  <millis>1541604927469</millis>
   <nanos>404000</nanos>
-  <sequence>233</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <sequence>12</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
+  <class>edu.neu.csye6200.bg.BGStem</class>
   <method>&lt;init&gt;</method>
   <thread>1</thread>
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.641643Z</date>
-  <millis>1541106453641</millis>
-  <nanos>643000</nanos>
-  <sequence>234</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <date>2018-11-07T15:35:27.469931Z</date>
+  <millis>1541604927469</millis>
+  <nanos>931000</nanos>
+  <sequence>13</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
+  <class>edu.neu.csye6200.bg.BGStem</class>
   <method>&lt;init&gt;</method>
   <thread>1</thread>
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.641919Z</date>
-  <millis>1541106453641</millis>
-  <nanos>919000</nanos>
-  <sequence>235</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <date>2018-11-07T15:35:27.470348Z</date>
+  <millis>1541604927470</millis>
+  <nanos>348000</nanos>
+  <sequence>14</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Stem</class>
+  <class>edu.neu.csye6200.bg.BGStem</class>
   <method>&lt;init&gt;</method>
   <thread>1</thread>
   <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.642233Z</date>
-  <millis>1541106453642</millis>
-  <nanos>233000</nanos>
-  <sequence>236</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <date>2018-11-07T15:35:27.470946Z</date>
+  <millis>1541604927470</millis>
+  <nanos>946000</nanos>
+  <sequence>15</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
+  <class>edu.neu.csye6200.bg.BGStem</class>
   <method>&lt;init&gt;</method>
   <thread>1</thread>
-  <message>Constructing a Flower instance</message>
+  <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.642463Z</date>
-  <millis>1541106453642</millis>
-  <nanos>463000</nanos>
-  <sequence>237</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <date>2018-11-07T15:35:27.471350Z</date>
+  <millis>1541604927471</millis>
+  <nanos>350000</nanos>
+  <sequence>16</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
+  <class>edu.neu.csye6200.bg.BGStem</class>
   <method>&lt;init&gt;</method>
   <thread>1</thread>
-  <message>Constructing a Flower instance</message>
+  <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.642739Z</date>
-  <millis>1541106453642</millis>
-  <nanos>739000</nanos>
-  <sequence>238</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <date>2018-11-07T15:35:27.471740Z</date>
+  <millis>1541604927471</millis>
+  <nanos>740000</nanos>
+  <sequence>17</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
+  <class>edu.neu.csye6200.bg.BGStem</class>
   <method>&lt;init&gt;</method>
   <thread>1</thread>
-  <message>Constructing a Flower instance</message>
+  <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.642996Z</date>
-  <millis>1541106453642</millis>
-  <nanos>996000</nanos>
-  <sequence>239</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <date>2018-11-07T15:35:27.472273Z</date>
+  <millis>1541604927472</millis>
+  <nanos>273000</nanos>
+  <sequence>18</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
+  <class>edu.neu.csye6200.bg.BGStem</class>
   <method>&lt;init&gt;</method>
   <thread>1</thread>
-  <message>Constructing a Flower instance</message>
+  <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.643228Z</date>
-  <millis>1541106453643</millis>
-  <nanos>228000</nanos>
-  <sequence>240</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <date>2018-11-07T15:35:27.472665Z</date>
+  <millis>1541604927472</millis>
+  <nanos>665000</nanos>
+  <sequence>19</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
+  <class>edu.neu.csye6200.bg.BGStem</class>
   <method>&lt;init&gt;</method>
   <thread>1</thread>
-  <message>Constructing a Flower instance</message>
+  <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.643453Z</date>
-  <millis>1541106453643</millis>
-  <nanos>453000</nanos>
-  <sequence>241</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <date>2018-11-07T15:35:27.473072Z</date>
+  <millis>1541604927473</millis>
+  <nanos>72000</nanos>
+  <sequence>20</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
+  <class>edu.neu.csye6200.bg.BGStem</class>
   <method>&lt;init&gt;</method>
   <thread>1</thread>
-  <message>Constructing a Flower instance</message>
+  <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.643660Z</date>
-  <millis>1541106453643</millis>
-  <nanos>660000</nanos>
-  <sequence>242</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <date>2018-11-07T15:35:27.473491Z</date>
+  <millis>1541604927473</millis>
+  <nanos>491000</nanos>
+  <sequence>21</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
+  <class>edu.neu.csye6200.bg.BGStem</class>
   <method>&lt;init&gt;</method>
   <thread>1</thread>
-  <message>Constructing a Flower instance</message>
+  <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.643885Z</date>
-  <millis>1541106453643</millis>
-  <nanos>885000</nanos>
-  <sequence>243</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <date>2018-11-07T15:35:27.473844Z</date>
+  <millis>1541604927473</millis>
+  <nanos>844000</nanos>
+  <sequence>22</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
+  <class>edu.neu.csye6200.bg.BGStem</class>
   <method>&lt;init&gt;</method>
   <thread>1</thread>
-  <message>Constructing a Flower instance</message>
+  <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.644140Z</date>
-  <millis>1541106453644</millis>
-  <nanos>140000</nanos>
-  <sequence>244</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <date>2018-11-07T15:35:27.474213Z</date>
+  <millis>1541604927474</millis>
+  <nanos>213000</nanos>
+  <sequence>23</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
+  <class>edu.neu.csye6200.bg.BGStem</class>
   <method>&lt;init&gt;</method>
   <thread>1</thread>
-  <message>Constructing a Flower instance</message>
+  <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.644462Z</date>
-  <millis>1541106453644</millis>
-  <nanos>462000</nanos>
-  <sequence>245</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <date>2018-11-07T15:35:27.474561Z</date>
+  <millis>1541604927474</millis>
+  <nanos>561000</nanos>
+  <sequence>24</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
+  <class>edu.neu.csye6200.bg.BGStem</class>
   <method>&lt;init&gt;</method>
   <thread>1</thread>
-  <message>Constructing a Flower instance</message>
+  <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.644680Z</date>
-  <millis>1541106453644</millis>
-  <nanos>680000</nanos>
-  <sequence>246</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <date>2018-11-07T15:35:27.474935Z</date>
+  <millis>1541604927474</millis>
+  <nanos>935000</nanos>
+  <sequence>25</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
+  <class>edu.neu.csye6200.bg.BGStem</class>
   <method>&lt;init&gt;</method>
   <thread>1</thread>
-  <message>Constructing a Flower instance</message>
+  <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.644894Z</date>
-  <millis>1541106453644</millis>
-  <nanos>894000</nanos>
-  <sequence>247</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <date>2018-11-07T15:35:27.475290Z</date>
+  <millis>1541604927475</millis>
+  <nanos>290000</nanos>
+  <sequence>26</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
-  <class>edu.neu.csye6200.sim.Flower</class>
+  <class>edu.neu.csye6200.bg.BGStem</class>
   <method>&lt;init&gt;</method>
   <thread>1</thread>
-  <message>Constructing a Flower instance</message>
+  <message>Constructing a Stem instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.645135Z</date>
-  <millis>1541106453645</millis>
+  <date>2018-11-07T15:35:27.475610Z</date>
+  <millis>1541604927475</millis>
+  <nanos>610000</nanos>
+  <sequence>27</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.475985Z</date>
+  <millis>1541604927475</millis>
+  <nanos>985000</nanos>
+  <sequence>28</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.476310Z</date>
+  <millis>1541604927476</millis>
+  <nanos>310000</nanos>
+  <sequence>29</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.476626Z</date>
+  <millis>1541604927476</millis>
+  <nanos>626000</nanos>
+  <sequence>30</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.476932Z</date>
+  <millis>1541604927476</millis>
+  <nanos>932000</nanos>
+  <sequence>31</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.477311Z</date>
+  <millis>1541604927477</millis>
+  <nanos>311000</nanos>
+  <sequence>32</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.477648Z</date>
+  <millis>1541604927477</millis>
+  <nanos>648000</nanos>
+  <sequence>33</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.477939Z</date>
+  <millis>1541604927477</millis>
+  <nanos>939000</nanos>
+  <sequence>34</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.478235Z</date>
+  <millis>1541604927478</millis>
+  <nanos>235000</nanos>
+  <sequence>35</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.478543Z</date>
+  <millis>1541604927478</millis>
+  <nanos>543000</nanos>
+  <sequence>36</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.478898Z</date>
+  <millis>1541604927478</millis>
+  <nanos>898000</nanos>
+  <sequence>37</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.479206Z</date>
+  <millis>1541604927479</millis>
+  <nanos>206000</nanos>
+  <sequence>38</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.479525Z</date>
+  <millis>1541604927479</millis>
+  <nanos>525000</nanos>
+  <sequence>39</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.479827Z</date>
+  <millis>1541604927479</millis>
+  <nanos>827000</nanos>
+  <sequence>40</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.480102Z</date>
+  <millis>1541604927480</millis>
+  <nanos>102000</nanos>
+  <sequence>41</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.480400Z</date>
+  <millis>1541604927480</millis>
+  <nanos>400000</nanos>
+  <sequence>42</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.480683Z</date>
+  <millis>1541604927480</millis>
+  <nanos>683000</nanos>
+  <sequence>43</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.481026Z</date>
+  <millis>1541604927481</millis>
+  <nanos>26000</nanos>
+  <sequence>44</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.481317Z</date>
+  <millis>1541604927481</millis>
+  <nanos>317000</nanos>
+  <sequence>45</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.481581Z</date>
+  <millis>1541604927481</millis>
+  <nanos>581000</nanos>
+  <sequence>46</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.481853Z</date>
+  <millis>1541604927481</millis>
+  <nanos>853000</nanos>
+  <sequence>47</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.482118Z</date>
+  <millis>1541604927482</millis>
+  <nanos>118000</nanos>
+  <sequence>48</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.482377Z</date>
+  <millis>1541604927482</millis>
+  <nanos>377000</nanos>
+  <sequence>49</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.482652Z</date>
+  <millis>1541604927482</millis>
+  <nanos>652000</nanos>
+  <sequence>50</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.482922Z</date>
+  <millis>1541604927482</millis>
+  <nanos>922000</nanos>
+  <sequence>51</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.483173Z</date>
+  <millis>1541604927483</millis>
+  <nanos>173000</nanos>
+  <sequence>52</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.483420Z</date>
+  <millis>1541604927483</millis>
+  <nanos>420000</nanos>
+  <sequence>53</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.483691Z</date>
+  <millis>1541604927483</millis>
+  <nanos>691000</nanos>
+  <sequence>54</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.484006Z</date>
+  <millis>1541604927484</millis>
+  <nanos>6000</nanos>
+  <sequence>55</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.484280Z</date>
+  <millis>1541604927484</millis>
+  <nanos>280000</nanos>
+  <sequence>56</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.484542Z</date>
+  <millis>1541604927484</millis>
+  <nanos>542000</nanos>
+  <sequence>57</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.484792Z</date>
+  <millis>1541604927484</millis>
+  <nanos>792000</nanos>
+  <sequence>58</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.485039Z</date>
+  <millis>1541604927485</millis>
+  <nanos>39000</nanos>
+  <sequence>59</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.485348Z</date>
+  <millis>1541604927485</millis>
+  <nanos>348000</nanos>
+  <sequence>60</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.485632Z</date>
+  <millis>1541604927485</millis>
+  <nanos>632000</nanos>
+  <sequence>61</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.485911Z</date>
+  <millis>1541604927485</millis>
+  <nanos>911000</nanos>
+  <sequence>62</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.486173Z</date>
+  <millis>1541604927486</millis>
+  <nanos>173000</nanos>
+  <sequence>63</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.486486Z</date>
+  <millis>1541604927486</millis>
+  <nanos>486000</nanos>
+  <sequence>64</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.486748Z</date>
+  <millis>1541604927486</millis>
+  <nanos>748000</nanos>
+  <sequence>65</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.486992Z</date>
+  <millis>1541604927486</millis>
+  <nanos>992000</nanos>
+  <sequence>66</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.487250Z</date>
+  <millis>1541604927487</millis>
+  <nanos>250000</nanos>
+  <sequence>67</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.487488Z</date>
+  <millis>1541604927487</millis>
+  <nanos>488000</nanos>
+  <sequence>68</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.487755Z</date>
+  <millis>1541604927487</millis>
+  <nanos>755000</nanos>
+  <sequence>69</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.488029Z</date>
+  <millis>1541604927488</millis>
+  <nanos>29000</nanos>
+  <sequence>70</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.488268Z</date>
+  <millis>1541604927488</millis>
+  <nanos>268000</nanos>
+  <sequence>71</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.488497Z</date>
+  <millis>1541604927488</millis>
+  <nanos>497000</nanos>
+  <sequence>72</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.488724Z</date>
+  <millis>1541604927488</millis>
+  <nanos>724000</nanos>
+  <sequence>73</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.489139Z</date>
+  <millis>1541604927489</millis>
+  <nanos>139000</nanos>
+  <sequence>74</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.489400Z</date>
+  <millis>1541604927489</millis>
+  <nanos>400000</nanos>
+  <sequence>75</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.489658Z</date>
+  <millis>1541604927489</millis>
+  <nanos>658000</nanos>
+  <sequence>76</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.489886Z</date>
+  <millis>1541604927489</millis>
+  <nanos>886000</nanos>
+  <sequence>77</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.490135Z</date>
+  <millis>1541604927490</millis>
   <nanos>135000</nanos>
+  <sequence>78</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.490372Z</date>
+  <millis>1541604927490</millis>
+  <nanos>372000</nanos>
+  <sequence>79</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.490610Z</date>
+  <millis>1541604927490</millis>
+  <nanos>610000</nanos>
+  <sequence>80</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.490835Z</date>
+  <millis>1541604927490</millis>
+  <nanos>835000</nanos>
+  <sequence>81</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.491066Z</date>
+  <millis>1541604927491</millis>
+  <nanos>66000</nanos>
+  <sequence>82</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.491278Z</date>
+  <millis>1541604927491</millis>
+  <nanos>278000</nanos>
+  <sequence>83</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.491532Z</date>
+  <millis>1541604927491</millis>
+  <nanos>532000</nanos>
+  <sequence>84</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.491743Z</date>
+  <millis>1541604927491</millis>
+  <nanos>743000</nanos>
+  <sequence>85</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.491970Z</date>
+  <millis>1541604927491</millis>
+  <nanos>970000</nanos>
+  <sequence>86</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.492228Z</date>
+  <millis>1541604927492</millis>
+  <nanos>228000</nanos>
+  <sequence>87</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.492461Z</date>
+  <millis>1541604927492</millis>
+  <nanos>461000</nanos>
+  <sequence>88</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.492678Z</date>
+  <millis>1541604927492</millis>
+  <nanos>678000</nanos>
+  <sequence>89</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.492932Z</date>
+  <millis>1541604927492</millis>
+  <nanos>932000</nanos>
+  <sequence>90</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.493153Z</date>
+  <millis>1541604927493</millis>
+  <nanos>153000</nanos>
+  <sequence>91</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.493376Z</date>
+  <millis>1541604927493</millis>
+  <nanos>376000</nanos>
+  <sequence>92</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.493589Z</date>
+  <millis>1541604927493</millis>
+  <nanos>589000</nanos>
+  <sequence>93</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.493795Z</date>
+  <millis>1541604927493</millis>
+  <nanos>795000</nanos>
+  <sequence>94</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.494032Z</date>
+  <millis>1541604927494</millis>
+  <nanos>32000</nanos>
+  <sequence>95</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.494240Z</date>
+  <millis>1541604927494</millis>
+  <nanos>240000</nanos>
+  <sequence>96</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.494449Z</date>
+  <millis>1541604927494</millis>
+  <nanos>449000</nanos>
+  <sequence>97</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.494674Z</date>
+  <millis>1541604927494</millis>
+  <nanos>674000</nanos>
+  <sequence>98</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.494900Z</date>
+  <millis>1541604927494</millis>
+  <nanos>900000</nanos>
+  <sequence>99</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.495114Z</date>
+  <millis>1541604927495</millis>
+  <nanos>114000</nanos>
+  <sequence>100</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.495337Z</date>
+  <millis>1541604927495</millis>
+  <nanos>337000</nanos>
+  <sequence>101</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.495547Z</date>
+  <millis>1541604927495</millis>
+  <nanos>547000</nanos>
+  <sequence>102</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.495748Z</date>
+  <millis>1541604927495</millis>
+  <nanos>748000</nanos>
+  <sequence>103</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.495951Z</date>
+  <millis>1541604927495</millis>
+  <nanos>951000</nanos>
+  <sequence>104</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.496152Z</date>
+  <millis>1541604927496</millis>
+  <nanos>152000</nanos>
+  <sequence>105</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.496384Z</date>
+  <millis>1541604927496</millis>
+  <nanos>384000</nanos>
+  <sequence>106</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.496603Z</date>
+  <millis>1541604927496</millis>
+  <nanos>603000</nanos>
+  <sequence>107</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.496851Z</date>
+  <millis>1541604927496</millis>
+  <nanos>851000</nanos>
+  <sequence>108</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.497064Z</date>
+  <millis>1541604927497</millis>
+  <nanos>64000</nanos>
+  <sequence>109</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.497271Z</date>
+  <millis>1541604927497</millis>
+  <nanos>271000</nanos>
+  <sequence>110</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.497484Z</date>
+  <millis>1541604927497</millis>
+  <nanos>484000</nanos>
+  <sequence>111</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.497685Z</date>
+  <millis>1541604927497</millis>
+  <nanos>685000</nanos>
+  <sequence>112</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.497912Z</date>
+  <millis>1541604927497</millis>
+  <nanos>912000</nanos>
+  <sequence>113</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.498117Z</date>
+  <millis>1541604927498</millis>
+  <nanos>117000</nanos>
+  <sequence>114</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.498337Z</date>
+  <millis>1541604927498</millis>
+  <nanos>337000</nanos>
+  <sequence>115</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.498561Z</date>
+  <millis>1541604927498</millis>
+  <nanos>561000</nanos>
+  <sequence>116</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.498774Z</date>
+  <millis>1541604927498</millis>
+  <nanos>774000</nanos>
+  <sequence>117</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.498987Z</date>
+  <millis>1541604927498</millis>
+  <nanos>987000</nanos>
+  <sequence>118</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.499193Z</date>
+  <millis>1541604927499</millis>
+  <nanos>193000</nanos>
+  <sequence>119</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.499401Z</date>
+  <millis>1541604927499</millis>
+  <nanos>401000</nanos>
+  <sequence>120</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.499647Z</date>
+  <millis>1541604927499</millis>
+  <nanos>647000</nanos>
+  <sequence>121</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.499852Z</date>
+  <millis>1541604927499</millis>
+  <nanos>852000</nanos>
+  <sequence>122</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.500078Z</date>
+  <millis>1541604927500</millis>
+  <nanos>78000</nanos>
+  <sequence>123</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.500308Z</date>
+  <millis>1541604927500</millis>
+  <nanos>308000</nanos>
+  <sequence>124</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.500530Z</date>
+  <millis>1541604927500</millis>
+  <nanos>530000</nanos>
+  <sequence>125</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.500753Z</date>
+  <millis>1541604927500</millis>
+  <nanos>753000</nanos>
+  <sequence>126</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.500992Z</date>
+  <millis>1541604927500</millis>
+  <nanos>992000</nanos>
+  <sequence>127</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.501290Z</date>
+  <millis>1541604927501</millis>
+  <nanos>290000</nanos>
+  <sequence>128</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.501513Z</date>
+  <millis>1541604927501</millis>
+  <nanos>513000</nanos>
+  <sequence>129</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.501816Z</date>
+  <millis>1541604927501</millis>
+  <nanos>816000</nanos>
+  <sequence>130</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.502108Z</date>
+  <millis>1541604927502</millis>
+  <nanos>108000</nanos>
+  <sequence>131</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.502551Z</date>
+  <millis>1541604927502</millis>
+  <nanos>551000</nanos>
+  <sequence>132</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.502833Z</date>
+  <millis>1541604927502</millis>
+  <nanos>833000</nanos>
+  <sequence>133</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.503055Z</date>
+  <millis>1541604927503</millis>
+  <nanos>55000</nanos>
+  <sequence>134</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.503332Z</date>
+  <millis>1541604927503</millis>
+  <nanos>332000</nanos>
+  <sequence>135</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.503548Z</date>
+  <millis>1541604927503</millis>
+  <nanos>548000</nanos>
+  <sequence>136</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.503750Z</date>
+  <millis>1541604927503</millis>
+  <nanos>750000</nanos>
+  <sequence>137</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.504057Z</date>
+  <millis>1541604927504</millis>
+  <nanos>57000</nanos>
+  <sequence>138</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.504328Z</date>
+  <millis>1541604927504</millis>
+  <nanos>328000</nanos>
+  <sequence>139</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.504989Z</date>
+  <millis>1541604927504</millis>
+  <nanos>989000</nanos>
+  <sequence>140</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.505274Z</date>
+  <millis>1541604927505</millis>
+  <nanos>274000</nanos>
+  <sequence>141</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.505494Z</date>
+  <millis>1541604927505</millis>
+  <nanos>494000</nanos>
+  <sequence>142</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.505705Z</date>
+  <millis>1541604927505</millis>
+  <nanos>705000</nanos>
+  <sequence>143</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.505909Z</date>
+  <millis>1541604927505</millis>
+  <nanos>909000</nanos>
+  <sequence>144</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.506120Z</date>
+  <millis>1541604927506</millis>
+  <nanos>120000</nanos>
+  <sequence>145</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.506352Z</date>
+  <millis>1541604927506</millis>
+  <nanos>352000</nanos>
+  <sequence>146</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.506652Z</date>
+  <millis>1541604927506</millis>
+  <nanos>652000</nanos>
+  <sequence>147</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.506888Z</date>
+  <millis>1541604927506</millis>
+  <nanos>888000</nanos>
+  <sequence>148</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.507121Z</date>
+  <millis>1541604927507</millis>
+  <nanos>121000</nanos>
+  <sequence>149</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.507343Z</date>
+  <millis>1541604927507</millis>
+  <nanos>343000</nanos>
+  <sequence>150</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.507579Z</date>
+  <millis>1541604927507</millis>
+  <nanos>579000</nanos>
+  <sequence>151</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.507883Z</date>
+  <millis>1541604927507</millis>
+  <nanos>883000</nanos>
+  <sequence>152</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.508137Z</date>
+  <millis>1541604927508</millis>
+  <nanos>137000</nanos>
+  <sequence>153</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.508369Z</date>
+  <millis>1541604927508</millis>
+  <nanos>369000</nanos>
+  <sequence>154</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.508588Z</date>
+  <millis>1541604927508</millis>
+  <nanos>588000</nanos>
+  <sequence>155</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.508850Z</date>
+  <millis>1541604927508</millis>
+  <nanos>850000</nanos>
+  <sequence>156</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.509113Z</date>
+  <millis>1541604927509</millis>
+  <nanos>113000</nanos>
+  <sequence>157</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.509370Z</date>
+  <millis>1541604927509</millis>
+  <nanos>370000</nanos>
+  <sequence>158</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.509711Z</date>
+  <millis>1541604927509</millis>
+  <nanos>711000</nanos>
+  <sequence>159</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.510147Z</date>
+  <millis>1541604927510</millis>
+  <nanos>147000</nanos>
+  <sequence>160</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.510610Z</date>
+  <millis>1541604927510</millis>
+  <nanos>610000</nanos>
+  <sequence>161</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.511009Z</date>
+  <millis>1541604927511</millis>
+  <nanos>9000</nanos>
+  <sequence>162</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.511361Z</date>
+  <millis>1541604927511</millis>
+  <nanos>361000</nanos>
+  <sequence>163</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.511627Z</date>
+  <millis>1541604927511</millis>
+  <nanos>627000</nanos>
+  <sequence>164</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.511941Z</date>
+  <millis>1541604927511</millis>
+  <nanos>941000</nanos>
+  <sequence>165</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.512195Z</date>
+  <millis>1541604927512</millis>
+  <nanos>195000</nanos>
+  <sequence>166</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.512437Z</date>
+  <millis>1541604927512</millis>
+  <nanos>437000</nanos>
+  <sequence>167</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.512732Z</date>
+  <millis>1541604927512</millis>
+  <nanos>732000</nanos>
+  <sequence>168</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.513092Z</date>
+  <millis>1541604927513</millis>
+  <nanos>92000</nanos>
+  <sequence>169</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.513394Z</date>
+  <millis>1541604927513</millis>
+  <nanos>394000</nanos>
+  <sequence>170</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.513699Z</date>
+  <millis>1541604927513</millis>
+  <nanos>699000</nanos>
+  <sequence>171</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.514081Z</date>
+  <millis>1541604927514</millis>
+  <nanos>81000</nanos>
+  <sequence>172</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.514396Z</date>
+  <millis>1541604927514</millis>
+  <nanos>396000</nanos>
+  <sequence>173</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.514714Z</date>
+  <millis>1541604927514</millis>
+  <nanos>714000</nanos>
+  <sequence>174</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.514984Z</date>
+  <millis>1541604927514</millis>
+  <nanos>984000</nanos>
+  <sequence>175</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.515339Z</date>
+  <millis>1541604927515</millis>
+  <nanos>339000</nanos>
+  <sequence>176</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.515616Z</date>
+  <millis>1541604927515</millis>
+  <nanos>616000</nanos>
+  <sequence>177</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.515869Z</date>
+  <millis>1541604927515</millis>
+  <nanos>869000</nanos>
+  <sequence>178</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.516100Z</date>
+  <millis>1541604927516</millis>
+  <nanos>100000</nanos>
+  <sequence>179</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.516355Z</date>
+  <millis>1541604927516</millis>
+  <nanos>355000</nanos>
+  <sequence>180</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.516654Z</date>
+  <millis>1541604927516</millis>
+  <nanos>654000</nanos>
+  <sequence>181</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.516907Z</date>
+  <millis>1541604927516</millis>
+  <nanos>907000</nanos>
+  <sequence>182</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.517172Z</date>
+  <millis>1541604927517</millis>
+  <nanos>172000</nanos>
+  <sequence>183</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.517431Z</date>
+  <millis>1541604927517</millis>
+  <nanos>431000</nanos>
+  <sequence>184</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.517791Z</date>
+  <millis>1541604927517</millis>
+  <nanos>791000</nanos>
+  <sequence>185</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.518062Z</date>
+  <millis>1541604927518</millis>
+  <nanos>62000</nanos>
+  <sequence>186</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.518384Z</date>
+  <millis>1541604927518</millis>
+  <nanos>384000</nanos>
+  <sequence>187</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.518656Z</date>
+  <millis>1541604927518</millis>
+  <nanos>656000</nanos>
+  <sequence>188</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.519019Z</date>
+  <millis>1541604927519</millis>
+  <nanos>19000</nanos>
+  <sequence>189</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.519362Z</date>
+  <millis>1541604927519</millis>
+  <nanos>362000</nanos>
+  <sequence>190</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.519660Z</date>
+  <millis>1541604927519</millis>
+  <nanos>660000</nanos>
+  <sequence>191</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.520045Z</date>
+  <millis>1541604927520</millis>
+  <nanos>45000</nanos>
+  <sequence>192</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.520429Z</date>
+  <millis>1541604927520</millis>
+  <nanos>429000</nanos>
+  <sequence>193</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.520780Z</date>
+  <millis>1541604927520</millis>
+  <nanos>780000</nanos>
+  <sequence>194</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.521042Z</date>
+  <millis>1541604927521</millis>
+  <nanos>42000</nanos>
+  <sequence>195</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.521377Z</date>
+  <millis>1541604927521</millis>
+  <nanos>377000</nanos>
+  <sequence>196</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.521736Z</date>
+  <millis>1541604927521</millis>
+  <nanos>736000</nanos>
+  <sequence>197</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.522004Z</date>
+  <millis>1541604927522</millis>
+  <nanos>4000</nanos>
+  <sequence>198</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.522246Z</date>
+  <millis>1541604927522</millis>
+  <nanos>246000</nanos>
+  <sequence>199</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.522519Z</date>
+  <millis>1541604927522</millis>
+  <nanos>519000</nanos>
+  <sequence>200</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.522749Z</date>
+  <millis>1541604927522</millis>
+  <nanos>749000</nanos>
+  <sequence>201</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.523005Z</date>
+  <millis>1541604927523</millis>
+  <nanos>5000</nanos>
+  <sequence>202</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.523256Z</date>
+  <millis>1541604927523</millis>
+  <nanos>256000</nanos>
+  <sequence>203</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.523498Z</date>
+  <millis>1541604927523</millis>
+  <nanos>498000</nanos>
+  <sequence>204</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.523713Z</date>
+  <millis>1541604927523</millis>
+  <nanos>713000</nanos>
+  <sequence>205</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.523936Z</date>
+  <millis>1541604927523</millis>
+  <nanos>936000</nanos>
+  <sequence>206</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.524167Z</date>
+  <millis>1541604927524</millis>
+  <nanos>167000</nanos>
+  <sequence>207</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.524444Z</date>
+  <millis>1541604927524</millis>
+  <nanos>444000</nanos>
+  <sequence>208</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.524685Z</date>
+  <millis>1541604927524</millis>
+  <nanos>685000</nanos>
+  <sequence>209</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.524913Z</date>
+  <millis>1541604927524</millis>
+  <nanos>913000</nanos>
+  <sequence>210</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.525148Z</date>
+  <millis>1541604927525</millis>
+  <nanos>148000</nanos>
+  <sequence>211</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.525370Z</date>
+  <millis>1541604927525</millis>
+  <nanos>370000</nanos>
+  <sequence>212</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.525601Z</date>
+  <millis>1541604927525</millis>
+  <nanos>601000</nanos>
+  <sequence>213</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.525852Z</date>
+  <millis>1541604927525</millis>
+  <nanos>852000</nanos>
+  <sequence>214</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.526077Z</date>
+  <millis>1541604927526</millis>
+  <nanos>77000</nanos>
+  <sequence>215</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.526293Z</date>
+  <millis>1541604927526</millis>
+  <nanos>293000</nanos>
+  <sequence>216</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.526506Z</date>
+  <millis>1541604927526</millis>
+  <nanos>506000</nanos>
+  <sequence>217</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.526821Z</date>
+  <millis>1541604927526</millis>
+  <nanos>821000</nanos>
+  <sequence>218</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.527174Z</date>
+  <millis>1541604927527</millis>
+  <nanos>174000</nanos>
+  <sequence>219</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.527505Z</date>
+  <millis>1541604927527</millis>
+  <nanos>505000</nanos>
+  <sequence>220</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.527763Z</date>
+  <millis>1541604927527</millis>
+  <nanos>763000</nanos>
+  <sequence>221</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.528018Z</date>
+  <millis>1541604927528</millis>
+  <nanos>18000</nanos>
+  <sequence>222</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.528300Z</date>
+  <millis>1541604927528</millis>
+  <nanos>300000</nanos>
+  <sequence>223</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.528619Z</date>
+  <millis>1541604927528</millis>
+  <nanos>619000</nanos>
+  <sequence>224</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.528945Z</date>
+  <millis>1541604927528</millis>
+  <nanos>945000</nanos>
+  <sequence>225</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.529273Z</date>
+  <millis>1541604927529</millis>
+  <nanos>273000</nanos>
+  <sequence>226</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.529568Z</date>
+  <millis>1541604927529</millis>
+  <nanos>568000</nanos>
+  <sequence>227</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.529812Z</date>
+  <millis>1541604927529</millis>
+  <nanos>812000</nanos>
+  <sequence>228</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.530041Z</date>
+  <millis>1541604927530</millis>
+  <nanos>41000</nanos>
+  <sequence>229</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.530255Z</date>
+  <millis>1541604927530</millis>
+  <nanos>255000</nanos>
+  <sequence>230</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.530466Z</date>
+  <millis>1541604927530</millis>
+  <nanos>466000</nanos>
+  <sequence>231</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.530703Z</date>
+  <millis>1541604927530</millis>
+  <nanos>703000</nanos>
+  <sequence>232</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.530936Z</date>
+  <millis>1541604927530</millis>
+  <nanos>936000</nanos>
+  <sequence>233</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.531158Z</date>
+  <millis>1541604927531</millis>
+  <nanos>158000</nanos>
+  <sequence>234</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.531362Z</date>
+  <millis>1541604927531</millis>
+  <nanos>362000</nanos>
+  <sequence>235</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGStem</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Stem instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.531582Z</date>
+  <millis>1541604927531</millis>
+  <nanos>582000</nanos>
+  <sequence>236</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.531796Z</date>
+  <millis>1541604927531</millis>
+  <nanos>796000</nanos>
+  <sequence>237</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.532007Z</date>
+  <millis>1541604927532</millis>
+  <nanos>7000</nanos>
+  <sequence>238</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.532282Z</date>
+  <millis>1541604927532</millis>
+  <nanos>282000</nanos>
+  <sequence>239</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.532494Z</date>
+  <millis>1541604927532</millis>
+  <nanos>494000</nanos>
+  <sequence>240</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.532722Z</date>
+  <millis>1541604927532</millis>
+  <nanos>722000</nanos>
+  <sequence>241</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.532960Z</date>
+  <millis>1541604927532</millis>
+  <nanos>960000</nanos>
+  <sequence>242</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.533167Z</date>
+  <millis>1541604927533</millis>
+  <nanos>167000</nanos>
+  <sequence>243</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.533363Z</date>
+  <millis>1541604927533</millis>
+  <nanos>363000</nanos>
+  <sequence>244</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.533580Z</date>
+  <millis>1541604927533</millis>
+  <nanos>580000</nanos>
+  <sequence>245</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.533781Z</date>
+  <millis>1541604927533</millis>
+  <nanos>781000</nanos>
+  <sequence>246</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.533975Z</date>
+  <millis>1541604927533</millis>
+  <nanos>975000</nanos>
+  <sequence>247</sequence>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.sim.Flower</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Constructing a Flower instance</message>
+</record>
+<record>
+  <date>2018-11-07T15:35:27.534182Z</date>
+  <millis>1541604927534</millis>
+  <nanos>182000</nanos>
   <sequence>248</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
   <class>edu.neu.csye6200.sim.Flower</class>
   <method>&lt;init&gt;</method>
@@ -2870,11 +2870,11 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.645410Z</date>
-  <millis>1541106453645</millis>
-  <nanos>410000</nanos>
+  <date>2018-11-07T15:35:27.534409Z</date>
+  <millis>1541604927534</millis>
+  <nanos>409000</nanos>
   <sequence>249</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
   <class>edu.neu.csye6200.sim.Flower</class>
   <method>&lt;init&gt;</method>
@@ -2882,11 +2882,11 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.645706Z</date>
-  <millis>1541106453645</millis>
-  <nanos>706000</nanos>
+  <date>2018-11-07T15:35:27.534605Z</date>
+  <millis>1541604927534</millis>
+  <nanos>605000</nanos>
   <sequence>250</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
   <class>edu.neu.csye6200.sim.Flower</class>
   <method>&lt;init&gt;</method>
@@ -2894,11 +2894,11 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.645925Z</date>
-  <millis>1541106453645</millis>
-  <nanos>925000</nanos>
+  <date>2018-11-07T15:35:27.534816Z</date>
+  <millis>1541604927534</millis>
+  <nanos>816000</nanos>
   <sequence>251</sequence>
-  <logger>edu.neu.csye6200.sim.Stem</logger>
+  <logger>edu.neu.csye6200.bg.BGStem</logger>
   <level>INFO</level>
   <class>edu.neu.csye6200.sim.Flower</class>
   <method>&lt;init&gt;</method>
@@ -2906,9 +2906,9 @@
   <message>Constructing a Flower instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.673291Z</date>
-  <millis>1541106453673</millis>
-  <nanos>291000</nanos>
+  <date>2018-11-07T15:35:27.555847Z</date>
+  <millis>1541604927555</millis>
+  <nanos>847000</nanos>
   <sequence>252</sequence>
   <logger>edu.neu.csye6200.sim.RegistryIO</logger>
   <level>INFO</level>
@@ -2918,9 +2918,9 @@
   <message>Save method is called</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.689377Z</date>
-  <millis>1541106453689</millis>
-  <nanos>377000</nanos>
+  <date>2018-11-07T15:35:27.567532Z</date>
+  <millis>1541604927567</millis>
+  <nanos>532000</nanos>
   <sequence>253</sequence>
   <logger>edu.neu.csye6200.sim.RegistryIO</logger>
   <level>INFO</level>
@@ -2930,9 +2930,9 @@
   <message>Load method is called</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.704020Z</date>
-  <millis>1541106453704</millis>
-  <nanos>20000</nanos>
+  <date>2018-11-07T15:35:27.581323Z</date>
+  <millis>1541604927581</millis>
+  <nanos>323000</nanos>
   <sequence>254</sequence>
   <logger>edu.neu.csye6200.sim.Plant</logger>
   <level>INFO</level>
@@ -2942,9 +2942,9 @@
   <message>Constructing a Plant instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.704547Z</date>
-  <millis>1541106453704</millis>
-  <nanos>547000</nanos>
+  <date>2018-11-07T15:35:27.581747Z</date>
+  <millis>1541604927581</millis>
+  <nanos>747000</nanos>
   <sequence>255</sequence>
   <logger>edu.neu.csye6200.sim.Plant</logger>
   <level>INFO</level>
@@ -2954,9 +2954,9 @@
   <message>Constructing a Plant instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.704901Z</date>
-  <millis>1541106453704</millis>
-  <nanos>901000</nanos>
+  <date>2018-11-07T15:35:27.582006Z</date>
+  <millis>1541604927582</millis>
+  <nanos>6000</nanos>
   <sequence>256</sequence>
   <logger>edu.neu.csye6200.sim.Plant</logger>
   <level>INFO</level>
@@ -2966,9 +2966,9 @@
   <message>Constructing a Plant instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.705380Z</date>
-  <millis>1541106453705</millis>
-  <nanos>380000</nanos>
+  <date>2018-11-07T15:35:27.582312Z</date>
+  <millis>1541604927582</millis>
+  <nanos>312000</nanos>
   <sequence>257</sequence>
   <logger>edu.neu.csye6200.sim.Plant</logger>
   <level>INFO</level>
@@ -2978,9 +2978,9 @@
   <message>Constructing a Plant instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.705666Z</date>
-  <millis>1541106453705</millis>
-  <nanos>666000</nanos>
+  <date>2018-11-07T15:35:27.582506Z</date>
+  <millis>1541604927582</millis>
+  <nanos>506000</nanos>
   <sequence>258</sequence>
   <logger>edu.neu.csye6200.sim.FlowerPlant</logger>
   <level>INFO</level>
@@ -2990,9 +2990,9 @@
   <message>Constructing a FlowerPlant instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.706011Z</date>
-  <millis>1541106453706</millis>
-  <nanos>11000</nanos>
+  <date>2018-11-07T15:35:27.582717Z</date>
+  <millis>1541604927582</millis>
+  <nanos>717000</nanos>
   <sequence>259</sequence>
   <logger>edu.neu.csye6200.sim.Plant</logger>
   <level>INFO</level>
@@ -3002,9 +3002,9 @@
   <message>Constructing a Plant instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.706296Z</date>
-  <millis>1541106453706</millis>
-  <nanos>296000</nanos>
+  <date>2018-11-07T15:35:27.582911Z</date>
+  <millis>1541604927582</millis>
+  <nanos>911000</nanos>
   <sequence>260</sequence>
   <logger>edu.neu.csye6200.sim.FlowerPlant</logger>
   <level>INFO</level>
@@ -3014,9 +3014,9 @@
   <message>Constructing a FlowerPlant instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.706707Z</date>
-  <millis>1541106453706</millis>
-  <nanos>707000</nanos>
+  <date>2018-11-07T15:35:27.583190Z</date>
+  <millis>1541604927583</millis>
+  <nanos>190000</nanos>
   <sequence>261</sequence>
   <logger>edu.neu.csye6200.sim.Plant</logger>
   <level>INFO</level>
@@ -3026,9 +3026,9 @@
   <message>Constructing a Plant instance</message>
 </record>
 <record>
-  <date>2018-11-01T21:07:33.707044Z</date>
-  <millis>1541106453707</millis>
-  <nanos>44000</nanos>
+  <date>2018-11-07T15:35:27.583411Z</date>
+  <millis>1541604927583</millis>
+  <nanos>411000</nanos>
   <sequence>262</sequence>
   <logger>edu.neu.csye6200.sim.FlowerPlant</logger>
   <level>INFO</level>
