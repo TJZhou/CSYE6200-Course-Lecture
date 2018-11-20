@@ -26,6 +26,12 @@ public class EventPublisher extends Observable{
 	public void run() {
 		while(!done) {
 			doAction();
+			try {
+				Thread.sleep(500);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 			if(++ctr > 10)
 				done = true;
 		}
