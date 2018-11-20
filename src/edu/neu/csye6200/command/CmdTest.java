@@ -18,10 +18,13 @@ public class CmdTest {
 		
 		itc.execute();
 		itc.execute();
-		itc.undo();
 		
 		System.out.println("After insert textDoc: " + textDoc.toString());
 
+		itc.undo();
+		System.out.println("After undo textDoc: " + textDoc.toString());
+		itc.undo();
+		System.out.println("After undo textDoc: " + textDoc.toString());
 	}
 
 	/**
