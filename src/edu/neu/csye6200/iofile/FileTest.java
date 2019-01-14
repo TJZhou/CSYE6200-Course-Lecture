@@ -16,7 +16,7 @@ public class FileTest {
 	}
 	
 	public void listDir(File dirFile){
-		//if(!dirFile.isDirectory()) return;	//reject non-directory
+		if(!dirFile.isDirectory()) return;	//reject non-directory
 		
 		System.out.println("Dir: " + dirFile.getAbsolutePath());
 		

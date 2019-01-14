@@ -1,5 +1,7 @@
 package edu.neu.csye6200.io;
 
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -15,7 +17,21 @@ public class FileWriterTest {
 	
 	public void run(){
 		
-		try {
+		try(BufferedReader br = new BufferedReader(new FileReader(base + "FileWriterTest.java"));
+				BufferedWriter bw = new BufferedWriter(new FileWriter(base + "FWDuplicateX.txt"));){
+			
+			String str = br.readLine();
+			while(str!=null) {
+				bw.write(str+'\n');
+				str = br.readLine();
+			}
+			
+		}catch(FileNotFoundException e) {
+			e.printStackTrace();
+		}catch (IOException e) {
+			e.printStackTrace();
+		}
+/*		try {
 			//open source and destination files
 			FileReader reader = new FileReader(base + "FileWriterTest.java");
 			FileWriter writer = new FileWriter(base + "FWDuplicateX.txt");
@@ -33,7 +49,7 @@ public class FileWriterTest {
 			e.printStackTrace();
 		} catch (IOException e) {	// All other IO problem
 			e.printStackTrace();
-		}
+		}*/ 
 		
 		
 	}

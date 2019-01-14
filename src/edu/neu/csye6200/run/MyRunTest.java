@@ -12,11 +12,9 @@ public class MyRunTest {
 	public MyRunTest(String name) {
 		 // Create a Runnable
 		thread = new Thread(new MyRunnable(name)); // create a thread
-	}
-
-	public void run() {
 		thread.start();	// start the thread
 	}
+
 
 	/**
 	 * @param args
@@ -24,8 +22,5 @@ public class MyRunTest {
 	public static void main(String[] args) {
 		MyRunTest mrtestA = new MyRunTest("A"); // initialize the threads
 		MyRunTest mrtestB = new MyRunTest("B"); // initialize the threads
-		mrtestA.run();	// start the threads running
-		mrtestB.run();
 	}
-
 }

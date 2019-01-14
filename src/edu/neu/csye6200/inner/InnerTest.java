@@ -47,7 +47,7 @@ public class InnerTest {
 	 * @param args input arguments
 	 */
 	public static void main(String[] args) {
-		InnerTest inTest = new InnerTest(30);
+		InnerTest inTest = new InnerTest(0b00011110);
 	}
 
 }

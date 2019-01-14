@@ -20,11 +20,11 @@ public class MyRunnable implements Runnable {
 		while (!done) {
 			if (ctr == 100)
 				paused = true;
-			if (ctr == 110)
+			if (ctr == 109)
 				paused = false;
 			if (paused) {
 				try {
-					Thread.sleep(1000L);
+					Thread.sleep(500L);
 				} catch (InterruptedException e) {
 					e.printStackTrace();
 				}

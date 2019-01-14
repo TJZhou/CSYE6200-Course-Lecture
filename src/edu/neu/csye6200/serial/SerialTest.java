@@ -57,7 +57,7 @@ public class SerialTest {
 		serTest.streamOut(carData, "src/edu/neu/csye6200/serial/chevy.data");
 		
 		CarData carData2 = serTest.streamIn("src/edu/neu/csye6200/serial/chevy.data");	
-		System.out.println("CarData2 is " + carData2.getName());
+		System.out.println("CarData2 is " + carData2.getdValue());
 		
 		ArrayList<CarData> carList = new ArrayList<CarData>();	// a list for holding car data
 		
@@ -69,5 +69,8 @@ public class SerialTest {
 		carList.add(new CarData(6, 1.0, 2.0, "Ford"));	
 		
 		Collections.sort(carList);	//use collections packge to sort a list
+		for(CarData car : carList) {
+			System.out.println(car.getName());
+		}
 	}
 }

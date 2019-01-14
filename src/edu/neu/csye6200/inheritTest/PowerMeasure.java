@@ -5,7 +5,7 @@ package edu.neu.csye6200.inheritTest;
  */
 public class PowerMeasure extends MeterA implements MeterI{
 
-	protected double current = 1.0;	//1 Ampere
+	protected double current = 2.0;	//1 Ampere
 	protected double voltage = 12.0; //12 volts
 	
 	//constructor
@@ -27,6 +27,6 @@ public class PowerMeasure extends MeterA implements MeterI{
 	//From Abstract class (MeterA)
 	@Override
 	public double calcProbeMeasure() {
-		return 0;
+		return getProbeVal();
 	}
 }

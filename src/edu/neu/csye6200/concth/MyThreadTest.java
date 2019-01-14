@@ -17,8 +17,20 @@ public class MyThreadTest {
 	
 	public void run() {
 		threadA.start();	//launch our thread - list off
-		for(MyThread th : threads)
-			th.start();
+		try {
+			threadA.join();
+			for(MyThread th : threads) {
+				th.start();
+				
+			}
+			for(MyThread th : threads) {
+				th.join();
+				
+			}
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 	
 	/**
@@ -27,6 +39,7 @@ public class MyThreadTest {
 	public static void main(String[] args) {
 		MyThreadTest mtt = new MyThreadTest();
 		mtt.run();
+		
 		System.out.println("we are done with main.");
 	}
 

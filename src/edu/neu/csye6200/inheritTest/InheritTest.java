@@ -28,7 +28,7 @@ public class InheritTest {
 		meterMgr2.displayMeters();
 	}
 	
-	public void displayMeasure(MeterI meter){
+	public void displayMeasure(PowerMeasure meter){
 		System.out.println("Measure isc" + meter.measure());
 	}
 	

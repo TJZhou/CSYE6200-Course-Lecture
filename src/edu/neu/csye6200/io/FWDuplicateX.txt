@@ -1,51 +1,67 @@
- p a c k a g e   e d u . n e u . c s y e 6 2 0 0 . i o ;  
-  
- i m p o r t   j a v a . i o . F i l e N o t F o u n d E x c e p t i o n ;  
- i m p o r t   j a v a . i o . F i l e R e a d e r ;  
- i m p o r t   j a v a . i o . F i l e W r i t e r ;  
- i m p o r t   j a v a . i o . I O E x c e p t i o n ;  
-  
- / * *  
-   *   @ a u t h o r   T i a n j u   Z h o u  
-   *  
-   * /  
- p u b l i c   c l a s s   F i l e W r i t e r T e s t   {  
-  
- 	 p r i v a t e   S t r i n g   b a s e   =   " s r c / e d u / n e u / c s y e 6 2 0 0 / i o / " ;  
- 	  
- 	 p u b l i c   v o i d   r u n ( ) {  
- 	 	  
- 	 	 t r y   {  
- 	 	 	 / / o p e n   s o u r c e   a n d   d e s t i n a t i o n   f i l e s  
- 	 	 	 F i l e R e a d e r   r e a d e r   =   n e w   F i l e R e a d e r ( b a s e   +   " F i l e W r i t e r T e s t . j a v a " ) ;  
- 	 	 	 F i l e W r i t e r   w r i t e r   =   n e w   F i l e W r i t e r ( b a s e   +   " F W D u p l i c a t e X . t x t " ) ;  
- 	 	 	  
- 	 	 	 i n t   i n V a l   =   r e a d e r . r e a d ( ) ;  
- 	 	 	 w h i l e ( i n V a l   > =   0 ) {  
- 	 	 	 	 w r i t e r . w r i t e ( "   "   +   ( c h a r )   i n V a l ) ;  
- 	 	 	 	 i n V a l   =   r e a d e r . r e a d ( ) ;  
- 	 	 	 }  
- 	 	 	  
- 	 	 	 / / r e s p o n s i b i l i t y   t o   c l o s e   o p e n   f i l e s  
- 	 	 	 r e a d e r . c l o s e ( ) ;  
- 	 	 	 w r i t e r . c l o s e ( ) ;  
- 	 	 }   c a t c h   ( F i l e N o t F o u n d E x c e p t i o n   e )   {   / / F i l e   c a n n o t   b e   f o u n d 	 	 	  
- 	 	 	 e . p r i n t S t a c k T r a c e ( ) ;  
- 	 	 }   c a t c h   ( I O E x c e p t i o n   e )   { 	 / /   A l l   o t h e r   I O   p r o b l e m  
- 	 	 	 e . p r i n t S t a c k T r a c e ( ) ;  
- 	 	 }  
- 	 	  
- 	 	  
- 	 }  
- 	  
- 	 / * *  
- 	   *   @ p a r a m   a r g s  
- 	   * /  
- 	 p u b l i c   s t a t i c   v o i d   m a i n ( S t r i n g [ ]   a r g s )   {  
- 	 	  
- 	 	 F i l e W r i t e r T e s t   f w t D e m o   =   n e w   F i l e W r i t e r T e s t ( ) ;  
- 	 	  
- 	 	 f w t D e m o . r u n ( ) ;  
- 	 	  
- 	 }  
- }
+package edu.neu.csye6200.io;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+
+/**
+ * @author Tianju Zhou
+ *
+ */
+public class FileWriterTest {
+
+	private String base = "src/edu/neu/csye6200/io/";
+	
+	public void run(){
+		
+		try(BufferedReader br = new BufferedReader(new FileReader(base + "FileWriterTest.java"));
+				BufferedWriter bw = new BufferedWriter(new FileWriter(base + "FWDuplicateX.txt"));){
+			
+			String str = br.readLine();
+			while(str!=null) {
+				bw.write(str+'\n');
+				str = br.readLine();
+			}
+			
+		}catch(FileNotFoundException e) {
+			e.printStackTrace();
+		}catch (IOException e) {
+			e.printStackTrace();
+		}
+/*		try {
+			//open source and destination files
+			FileReader reader = new FileReader(base + "FileWriterTest.java");
+			FileWriter writer = new FileWriter(base + "FWDuplicateX.txt");
+			
+			int inVal = reader.read();
+			while(inVal >= 0){
+				writer.write(" " + (char) inVal);
+				inVal = reader.read();
+			}
+			
+			//responsibility to close open files
+			reader.close();
+			writer.close();
+		} catch (FileNotFoundException e) { //File cannot be found			
+			e.printStackTrace();
+		} catch (IOException e) {	// All other IO problem
+			e.printStackTrace();
+		}*/ 
+		
+		
+	}
+	
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		FileWriterTest fwtDemo = new FileWriterTest();
+		
+		fwtDemo.run();
+		
+	}
+}

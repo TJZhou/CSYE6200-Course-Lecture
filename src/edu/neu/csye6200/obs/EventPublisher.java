@@ -42,9 +42,19 @@ public class EventPublisher extends Observable{
 	 */
 	public static void main(String[] args) {
 		EventPublisher ep = new EventPublisher();	//we have a publisher
-		EventSubscriber sub1 = new EventSubscriber();	//we have a subscriber
-		ep.addObserver(sub1);
+		new Thread() {
+			public void run() {
+				EventSubscriber sub1 = new EventSubscriber();	//we have a subscriber
+				ep.addObserver(sub1);
+			}
+		}.start();
 		
+		new Thread() {
+			public void run() {
+				EventSubscriber sub2 = new EventSubscriber();	//we have a subscriber
+				ep.addObserver(sub2);
+			}
+		}.start();
 		ep.run();
 	}
 }

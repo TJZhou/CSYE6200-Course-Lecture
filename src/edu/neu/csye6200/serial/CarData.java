@@ -82,7 +82,7 @@ public class CarData implements Serializable, Comparable<CarData>{
 
 	@Override
 	public int compareTo(CarData cd) {		
-		return name.compareTo(cd.getName());
+		return cd.getName().compareTo(name);
 	}
 
 }

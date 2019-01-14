@@ -70,7 +70,7 @@ public class DogTest {
 			System.out.println("Map:" + dg2);
 		}
 		
-		Dog bulletDog = dogMap.get("Twos");
+		Dog bulletDog = dogMap.get("Twoss");
 		System.out.println("My dog is " + bulletDog);
 	}
 
