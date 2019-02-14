@@ -4,6 +4,7 @@
 *#
 #*
 *.log
+*.store
 *.tmp
 **/npm-cache
 /node_modules
