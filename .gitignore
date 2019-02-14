@@ -1,1 +1,12 @@
 /bin/
+.#*
+*~
+*#
+#*
+*.log
+*.tmp
+**/npm-cache
+/node_modules
+dist/docs/
+package-lock.json
+/dist
