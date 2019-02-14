@@ -4,7 +4,8 @@
 *#
 #*
 *.log
-*.store
+*.DS_Store
+*.classpath
 *.tmp
 **/npm-cache
 /node_modules
